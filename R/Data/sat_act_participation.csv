@@ -1,0 +1,2857 @@
+"fips","sex","race","total_participation","year"
+1,"Male","White",13359,2011
+1,"Male","Black",6494,2011
+1,"Male","Hispanic",499,2011
+1,"Male","Asian",423,2011
+1,"Male","American Indian or Alaska Native",189,2011
+1,"Male","Native Hawaiian or other Pacific Islander",10,2011
+1,"Male","Two or more races",142,2011
+1,"Female","White",15365,2011
+1,"Female","Black",8848,2011
+1,"Female","Hispanic",576,2011
+1,"Female","Asian",476,2011
+1,"Female","American Indian or Alaska Native",180,2011
+1,"Female","Native Hawaiian or other Pacific Islander",10,2011
+1,"Female","Two or more races",161,2011
+2,"Male","White",1482,2011
+2,"Male","Black",99,2011
+2,"Male","Hispanic",129,2011
+2,"Male","Asian",192,2011
+2,"Male","American Indian or Alaska Native",381,2011
+2,"Male","Native Hawaiian or other Pacific Islander",35,2011
+2,"Male","Two or more races",153,2011
+2,"Female","White",1763,2011
+2,"Female","Black",94,2011
+2,"Female","Hispanic",163,2011
+2,"Female","Asian",239,2011
+2,"Female","American Indian or Alaska Native",506,2011
+2,"Female","Native Hawaiian or other Pacific Islander",36,2011
+2,"Female","Two or more races",134,2011
+4,"Male","White",10465,2011
+4,"Male","Black",1179,2011
+4,"Male","Hispanic",6668,2011
+4,"Male","Asian",1148,2011
+4,"Male","American Indian or Alaska Native",796,2011
+4,"Male","Native Hawaiian or other Pacific Islander",70,2011
+4,"Male","Two or more races",198,2011
+4,"Female","White",11876,2011
+4,"Female","Black",1404,2011
+4,"Female","Hispanic",7756,2011
+4,"Female","Asian",1209,2011
+4,"Female","American Indian or Alaska Native",1045,2011
+4,"Female","Native Hawaiian or other Pacific Islander",73,2011
+4,"Female","Two or more races",252,2011
+5,"Male","White",11990,2011
+5,"Male","Black",2948,2011
+5,"Male","Hispanic",831,2011
+5,"Male","Asian",398,2011
+5,"Male","American Indian or Alaska Native",123,2011
+5,"Male","Native Hawaiian or other Pacific Islander",19,2011
+5,"Male","Two or more races",135,2011
+5,"Female","White",13952,2011
+5,"Female","Black",3695,2011
+5,"Female","Hispanic",998,2011
+5,"Female","Asian",405,2011
+5,"Female","American Indian or Alaska Native",149,2011
+5,"Female","Native Hawaiian or other Pacific Islander",28,2011
+5,"Female","Two or more races",135,2011
+6,"Male","White",43466,2011
+6,"Male","Black",6834,2011
+6,"Male","Hispanic",39703,2011
+6,"Male","Asian",27605,2011
+6,"Male","American Indian or Alaska Native",784,2011
+6,"Male","Native Hawaiian or other Pacific Islander",1302,2011
+6,"Male","Two or more races",2786,2011
+6,"Female","White",50609,2011
+6,"Female","Black",9276,2011
+6,"Female","Hispanic",56342,2011
+6,"Female","Asian",30958,2011
+6,"Female","American Indian or Alaska Native",960,2011
+6,"Female","Native Hawaiian or other Pacific Islander",1628,2011
+6,"Female","Two or more races",3538,2011
+8,"Male","White",18571,2011
+8,"Male","Black",1108,2011
+8,"Male","Hispanic",6924,2011
+8,"Male","Asian",1005,2011
+8,"Male","American Indian or Alaska Native",335,2011
+8,"Male","Native Hawaiian or other Pacific Islander",107,2011
+8,"Male","Two or more races",770,2011
+8,"Female","White",18913,2011
+8,"Female","Black",1106,2011
+8,"Female","Hispanic",7102,2011
+8,"Female","Asian",1153,2011
+8,"Female","American Indian or Alaska Native",301,2011
+8,"Female","Native Hawaiian or other Pacific Islander",105,2011
+8,"Female","Two or more races",813,2011
+9,"Male","White",14790,2011
+9,"Male","Black",2241,2011
+9,"Male","Hispanic",2082,2011
+9,"Male","Asian",1125,2011
+9,"Male","American Indian or Alaska Native",66,2011
+9,"Male","Native Hawaiian or other Pacific Islander",12,2011
+9,"Male","Two or more races",236,2011
+9,"Female","White",16872,2011
+9,"Female","Black",2694,2011
+9,"Female","Hispanic",2558,2011
+9,"Female","Asian",1257,2011
+9,"Female","American Indian or Alaska Native",96,2011
+9,"Female","Native Hawaiian or other Pacific Islander",20,2011
+9,"Female","Two or more races",304,2011
+10,"Male","White",2253,2011
+10,"Male","Black",1158,2011
+10,"Male","Hispanic",368,2011
+10,"Male","Asian",215,2011
+10,"Male","American Indian or Alaska Native",31,2011
+10,"Male","Native Hawaiian or other Pacific Islander",4,2011
+10,"Male","Two or more races",31,2011
+10,"Female","White",2575,2011
+10,"Female","Black",1307,2011
+10,"Female","Hispanic",402,2011
+10,"Female","Asian",191,2011
+10,"Female","American Indian or Alaska Native",16,2011
+10,"Female","Native Hawaiian or other Pacific Islander",71,2011
+10,"Female","Two or more races",29,2011
+11,"Male","White",75,2011
+11,"Male","Black",913,2011
+11,"Male","Hispanic",104,2011
+11,"Male","Asian",26,2011
+11,"Male","American Indian or Alaska Native",0,2011
+11,"Male","Native Hawaiian or other Pacific Islander",8,2011
+11,"Male","Two or more races",18,2011
+11,"Female","White",95,2011
+11,"Female","Black",1433,2011
+11,"Female","Hispanic",194,2011
+11,"Female","Asian",35,2011
+11,"Female","American Indian or Alaska Native",4,2011
+11,"Female","Native Hawaiian or other Pacific Islander",2,2011
+11,"Female","Two or more races",28,2011
+12,"Male","White",43044,2011
+12,"Male","Black",18082,2011
+12,"Male","Hispanic",18222,2011
+12,"Male","Asian",2853,2011
+12,"Male","American Indian or Alaska Native",375,2011
+12,"Male","Native Hawaiian or other Pacific Islander",94,2011
+12,"Male","Two or more races",1987,2011
+12,"Female","White",53064,2011
+12,"Female","Black",24517,2011
+12,"Female","Hispanic",23871,2011
+12,"Female","Asian",3202,2011
+12,"Female","American Indian or Alaska Native",495,2011
+12,"Female","Native Hawaiian or other Pacific Islander",148,2011
+12,"Female","Two or more races",3165,2011
+13,"Male","White",20693,2011
+13,"Male","Black",13073,2011
+13,"Male","Hispanic",2535,2011
+13,"Male","Asian",2683,2011
+13,"Male","American Indian or Alaska Native",162,2011
+13,"Male","Native Hawaiian or other Pacific Islander",48,2011
+13,"Male","Two or more races",1025,2011
+13,"Female","White",24466,2011
+13,"Female","Black",16918,2011
+13,"Female","Hispanic",3189,2011
+13,"Female","Asian",2709,2011
+13,"Female","American Indian or Alaska Native",162,2011
+13,"Female","Native Hawaiian or other Pacific Islander",63,2011
+13,"Female","Two or more races",1382,2011
+15,"Male","White",323,2011
+15,"Male","Black",66,2011
+15,"Male","Hispanic",62,2011
+15,"Male","Asian",1140,2011
+15,"Male","American Indian or Alaska Native",14,2011
+15,"Male","Native Hawaiian or other Pacific Islander",459,2011
+15,"Male","Two or more races",157,2011
+15,"Female","White",413,2011
+15,"Female","Black",91,2011
+15,"Female","Hispanic",123,2011
+15,"Female","Asian",1547,2011
+15,"Female","American Indian or Alaska Native",22,2011
+15,"Female","Native Hawaiian or other Pacific Islander",665,2011
+15,"Female","Two or more races",217,2011
+16,"Male","White",9462,2011
+16,"Male","Black",145,2011
+16,"Male","Hispanic",1429,2011
+16,"Male","Asian",209,2011
+16,"Male","American Indian or Alaska Native",149,2011
+16,"Male","Native Hawaiian or other Pacific Islander",61,2011
+16,"Male","Two or more races",169,2011
+16,"Female","White",10136,2011
+16,"Female","Black",129,2011
+16,"Female","Hispanic",1580,2011
+16,"Female","Asian",208,2011
+16,"Female","American Indian or Alaska Native",169,2011
+16,"Female","Native Hawaiian or other Pacific Islander",61,2011
+16,"Female","Two or more races",151,2011
+17,"Male","White",46079,2011
+17,"Male","Black",13832,2011
+17,"Male","Hispanic",16361,2011
+17,"Male","Asian",4360,2011
+17,"Male","American Indian or Alaska Native",306,2011
+17,"Male","Native Hawaiian or other Pacific Islander",101,2011
+17,"Male","Two or more races",1902,2011
+17,"Female","White",45197,2011
+17,"Female","Black",14731,2011
+17,"Female","Hispanic",16427,2011
+17,"Female","Asian",4178,2011
+17,"Female","American Indian or Alaska Native",307,2011
+17,"Female","Native Hawaiian or other Pacific Islander",131,2011
+17,"Female","Two or more races",2012,2011
+18,"Male","White",23157,2011
+18,"Male","Black",2305,2011
+18,"Male","Hispanic",1438,2011
+18,"Male","Asian",731,2011
+18,"Male","American Indian or Alaska Native",108,2011
+18,"Male","Native Hawaiian or other Pacific Islander",27,2011
+18,"Male","Two or more races",783,2011
+18,"Female","White",27576,2011
+18,"Female","Black",3124,2011
+18,"Female","Hispanic",1871,2011
+18,"Female","Asian",825,2011
+18,"Female","American Indian or Alaska Native",114,2011
+18,"Female","Native Hawaiian or other Pacific Islander",24,2011
+18,"Female","Two or more races",989,2011
+19,"Male","White",10334,2011
+19,"Male","Black",425,2011
+19,"Male","Hispanic",523,2011
+19,"Male","Asian",407,2011
+19,"Male","American Indian or Alaska Native",46,2011
+19,"Male","Native Hawaiian or other Pacific Islander",16,2011
+19,"Male","Two or more races",221,2011
+19,"Female","White",12012,2011
+19,"Female","Black",447,2011
+19,"Female","Hispanic",669,2011
+19,"Female","Asian",432,2011
+19,"Female","American Indian or Alaska Native",59,2011
+19,"Female","Native Hawaiian or other Pacific Islander",18,2011
+19,"Female","Two or more races",265,2011
+20,"Male","White",9747,2011
+20,"Male","Black",694,2011
+20,"Male","Hispanic",1035,2011
+20,"Male","Asian",444,2011
+20,"Male","American Indian or Alaska Native",174,2011
+20,"Male","Native Hawaiian or other Pacific Islander",16,2011
+20,"Male","Two or more races",363,2011
+20,"Female","White",11048,2011
+20,"Female","Black",850,2011
+20,"Female","Hispanic",1326,2011
+20,"Female","Asian",447,2011
+20,"Female","American Indian or Alaska Native",219,2011
+20,"Female","Native Hawaiian or other Pacific Islander",26,2011
+20,"Female","Two or more races",497,2011
+21,"Male","White",28267,2011
+21,"Male","Black",3542,2011
+21,"Male","Hispanic",958,2011
+21,"Male","Asian",573,2011
+21,"Male","American Indian or Alaska Native",72,2011
+21,"Male","Native Hawaiian or other Pacific Islander",27,2011
+21,"Male","Two or more races",394,2011
+21,"Female","White",29413,2011
+21,"Female","Black",3730,2011
+21,"Female","Hispanic",986,2011
+21,"Female","Asian",569,2011
+21,"Female","American Indian or Alaska Native",88,2011
+21,"Female","Native Hawaiian or other Pacific Islander",44,2011
+21,"Female","Two or more races",461,2011
+22,"Male","White",8092,2011
+22,"Male","Black",5006,2011
+22,"Male","Hispanic",470,2011
+22,"Male","Asian",488,2011
+22,"Male","American Indian or Alaska Native",117,2011
+22,"Male","Native Hawaiian or other Pacific Islander",10,2011
+22,"Male","Two or more races",81,2011
+22,"Female","White",10201,2011
+22,"Female","Black",7156,2011
+22,"Female","Hispanic",554,2011
+22,"Female","Asian",529,2011
+22,"Female","American Indian or Alaska Native",115,2011
+22,"Female","Native Hawaiian or other Pacific Islander",16,2011
+22,"Female","Two or more races",129,2011
+23,"Male","White",7412,2011
+23,"Male","Black",164,2011
+23,"Male","Hispanic",121,2011
+23,"Male","Asian",139,2011
+23,"Male","American Indian or Alaska Native",64,2011
+23,"Male","Native Hawaiian or other Pacific Islander",12,2011
+23,"Male","Two or more races",56,2011
+23,"Female","White",6940,2011
+23,"Female","Black",152,2011
+23,"Female","Hispanic",118,2011
+23,"Female","Asian",132,2011
+23,"Female","American Indian or Alaska Native",73,2011
+23,"Female","Native Hawaiian or other Pacific Islander",14,2011
+23,"Female","Two or more races",65,2011
+24,"Male","White",14956,2011
+24,"Male","Black",7927,2011
+24,"Male","Hispanic",1780,2011
+24,"Male","Asian",2555,2011
+24,"Male","American Indian or Alaska Native",125,2011
+24,"Male","Native Hawaiian or other Pacific Islander",223,2011
+24,"Male","Two or more races",760,2011
+24,"Female","White",16442,2011
+24,"Female","Black",10715,2011
+24,"Female","Hispanic",2247,2011
+24,"Female","Asian",2693,2011
+24,"Female","American Indian or Alaska Native",159,2011
+24,"Female","Native Hawaiian or other Pacific Islander",258,2011
+24,"Female","Two or more races",861,2011
+25,"Male","White",22281,2011
+25,"Male","Black",1998,2011
+25,"Male","Hispanic",1912,2011
+25,"Male","Asian",2040,2011
+25,"Male","American Indian or Alaska Native",106,2011
+25,"Male","Native Hawaiian or other Pacific Islander",28,2011
+25,"Male","Two or more races",559,2011
+25,"Female","White",25154,2011
+25,"Female","Black",2499,2011
+25,"Female","Hispanic",2511,2011
+25,"Female","Asian",2156,2011
+25,"Female","American Indian or Alaska Native",122,2011
+25,"Female","Native Hawaiian or other Pacific Islander",38,2011
+25,"Female","Two or more races",671,2011
+26,"Male","White",44590,2011
+26,"Male","Black",8957,2011
+26,"Male","Hispanic",2729,2011
+26,"Male","Asian",1908,2011
+26,"Male","American Indian or Alaska Native",580,2011
+26,"Male","Native Hawaiian or other Pacific Islander",54,2011
+26,"Male","Two or more races",929,2011
+26,"Female","White",44169,2011
+26,"Female","Black",9561,2011
+26,"Female","Hispanic",2688,2011
+26,"Female","Asian",1868,2011
+26,"Female","American Indian or Alaska Native",566,2011
+26,"Female","Native Hawaiian or other Pacific Islander",60,2011
+26,"Female","Two or more races",922,2011
+27,"Male","White",16702,2011
+27,"Male","Black",1229,2011
+27,"Male","Hispanic",593,2011
+27,"Male","Asian",1372,2011
+27,"Male","American Indian or Alaska Native",182,2011
+27,"Male","Native Hawaiian or other Pacific Islander",18,2011
+27,"Male","Two or more races",159,2011
+27,"Female","White",19125,2011
+27,"Female","Black",1412,2011
+27,"Female","Hispanic",784,2011
+27,"Female","Asian",1599,2011
+27,"Female","American Indian or Alaska Native",239,2011
+27,"Female","Native Hawaiian or other Pacific Islander",16,2011
+27,"Female","Two or more races",180,2011
+28,"Male","White",7893,2011
+28,"Male","Black",6700,2011
+28,"Male","Hispanic",316,2011
+28,"Male","Asian",253,2011
+28,"Male","American Indian or Alaska Native",33,2011
+28,"Male","Native Hawaiian or other Pacific Islander",4,2011
+28,"Male","Two or more races",8,2011
+28,"Female","White",9785,2011
+28,"Female","Black",8794,2011
+28,"Female","Hispanic",348,2011
+28,"Female","Asian",223,2011
+28,"Female","American Indian or Alaska Native",24,2011
+28,"Female","Native Hawaiian or other Pacific Islander",2,2011
+28,"Female","Two or more races",6,2011
+29,"Male","White",22756,2011
+29,"Male","Black",3706,2011
+29,"Male","Hispanic",846,2011
+29,"Male","Asian",803,2011
+29,"Male","American Indian or Alaska Native",121,2011
+29,"Male","Native Hawaiian or other Pacific Islander",59,2011
+29,"Male","Two or more races",279,2011
+29,"Female","White",26771,2011
+29,"Female","Black",4587,2011
+29,"Female","Hispanic",969,2011
+29,"Female","Asian",859,2011
+29,"Female","American Indian or Alaska Native",169,2011
+29,"Female","Native Hawaiian or other Pacific Islander",43,2011
+29,"Female","Two or more races",320,2011
+30,"Male","White",3590,2011
+30,"Male","Black",55,2011
+30,"Male","Hispanic",117,2011
+30,"Male","Asian",50,2011
+30,"Male","American Indian or Alaska Native",295,2011
+30,"Male","Native Hawaiian or other Pacific Islander",14,2011
+30,"Male","Two or more races",24,2011
+30,"Female","White",4064,2011
+30,"Female","Black",45,2011
+30,"Female","Hispanic",118,2011
+30,"Female","Asian",74,2011
+30,"Female","American Indian or Alaska Native",319,2011
+30,"Female","Native Hawaiian or other Pacific Islander",20,2011
+30,"Female","Two or more races",28,2011
+31,"Male","White",9020,2011
+31,"Male","Black",590,2011
+31,"Male","Hispanic",1112,2011
+31,"Male","Asian",378,2011
+31,"Male","American Indian or Alaska Native",130,2011
+31,"Male","Native Hawaiian or other Pacific Islander",18,2011
+31,"Male","Two or more races",282,2011
+31,"Female","White",10067,2011
+31,"Female","Black",680,2011
+31,"Female","Hispanic",1366,2011
+31,"Female","Asian",361,2011
+31,"Female","American Indian or Alaska Native",113,2011
+31,"Female","Native Hawaiian or other Pacific Islander",14,2011
+31,"Female","Two or more races",385,2011
+32,"Male","White",3410,2011
+32,"Male","Black",585,2011
+32,"Male","Hispanic",1393,2011
+32,"Male","Asian",700,2011
+32,"Male","American Indian or Alaska Native",80,2011
+32,"Male","Native Hawaiian or other Pacific Islander",115,2011
+32,"Male","Two or more races",400,2011
+32,"Female","White",4218,2011
+32,"Female","Black",705,2011
+32,"Female","Hispanic",2062,2011
+32,"Female","Asian",785,2011
+32,"Female","American Indian or Alaska Native",105,2011
+32,"Female","Native Hawaiian or other Pacific Islander",135,2011
+32,"Female","Two or more races",532,2011
+33,"Male","White",5697,2011
+33,"Male","Black",116,2011
+33,"Male","Hispanic",158,2011
+33,"Male","Asian",190,2011
+33,"Male","American Indian or Alaska Native",29,2011
+33,"Male","Native Hawaiian or other Pacific Islander",4,2011
+33,"Male","Two or more races",27,2011
+33,"Female","White",6762,2011
+33,"Female","Black",124,2011
+33,"Female","Hispanic",182,2011
+33,"Female","Asian",221,2011
+33,"Female","American Indian or Alaska Native",39,2011
+33,"Female","Native Hawaiian or other Pacific Islander",4,2011
+33,"Female","Two or more races",31,2011
+34,"Male","White",28680,2011
+34,"Male","Black",5741,2011
+34,"Male","Hispanic",5569,2011
+34,"Male","Asian",5771,2011
+34,"Male","American Indian or Alaska Native",58,2011
+34,"Male","Native Hawaiian or other Pacific Islander",91,2011
+34,"Male","Two or more races",259,2011
+34,"Female","White",31147,2011
+34,"Female","Black",7122,2011
+34,"Female","Hispanic",6999,2011
+34,"Female","Asian",5742,2011
+34,"Female","American Indian or Alaska Native",94,2011
+34,"Female","Native Hawaiian or other Pacific Islander",93,2011
+34,"Female","Two or more races",313,2011
+35,"Male","White",2206,2011
+35,"Male","Black",211,2011
+35,"Male","Hispanic",2979,2011
+35,"Male","Asian",148,2011
+35,"Male","American Indian or Alaska Native",544,2011
+35,"Male","Native Hawaiian or other Pacific Islander",8,2011
+35,"Male","Two or more races",116,2011
+35,"Female","White",2144,2011
+35,"Female","Black",123,2011
+35,"Female","Hispanic",3433,2011
+35,"Female","Asian",121,2011
+35,"Female","American Indian or Alaska Native",796,2011
+35,"Female","Native Hawaiian or other Pacific Islander",10,2011
+35,"Female","Two or more races",86,2011
+36,"Male","White",47376,2011
+36,"Male","Black",12086,2011
+36,"Male","Hispanic",13111,2011
+36,"Male","Asian",12020,2011
+36,"Male","American Indian or Alaska Native",381,2011
+36,"Male","Native Hawaiian or other Pacific Islander",121,2011
+36,"Male","Two or more races",361,2011
+36,"Female","White",53950,2011
+36,"Female","Black",16755,2011
+36,"Female","Hispanic",17412,2011
+36,"Female","Asian",13154,2011
+36,"Female","American Indian or Alaska Native",440,2011
+36,"Female","Native Hawaiian or other Pacific Islander",180,2011
+36,"Female","Two or more races",446,2011
+37,"Male","White",34723,2011
+37,"Male","Black",13717,2011
+37,"Male","Hispanic",4113,2011
+37,"Male","Asian",1968,2011
+37,"Male","American Indian or Alaska Native",672,2011
+37,"Male","Native Hawaiian or other Pacific Islander",82,2011
+37,"Male","Two or more races",1565,2011
+37,"Female","White",36330,2011
+37,"Female","Black",16165,2011
+37,"Female","Hispanic",4552,2011
+37,"Female","Asian",2119,2011
+37,"Female","American Indian or Alaska Native",830,2011
+37,"Female","Native Hawaiian or other Pacific Islander",80,2011
+37,"Female","Two or more races",1784,2011
+38,"Male","White",3427,2011
+38,"Male","Black",89,2011
+38,"Male","Hispanic",93,2011
+38,"Male","Asian",66,2011
+38,"Male","American Indian or Alaska Native",233,2011
+38,"Male","Native Hawaiian or other Pacific Islander",51,2011
+38,"Male","Two or more races",12,2011
+38,"Female","White",3451,2011
+38,"Female","Black",75,2011
+38,"Female","Hispanic",85,2011
+38,"Female","Asian",56,2011
+38,"Female","American Indian or Alaska Native",277,2011
+38,"Female","Native Hawaiian or other Pacific Islander",32,2011
+38,"Female","Two or more races",18,2011
+39,"Male","White",38735,2011
+39,"Male","Black",5754,2011
+39,"Male","Hispanic",1127,2011
+39,"Male","Asian",1411,2011
+39,"Male","American Indian or Alaska Native",94,2011
+39,"Male","Native Hawaiian or other Pacific Islander",32,2011
+39,"Male","Two or more races",1456,2011
+39,"Female","White",44909,2011
+39,"Female","Black",7349,2011
+39,"Female","Hispanic",1388,2011
+39,"Female","Asian",1446,2011
+39,"Female","American Indian or Alaska Native",102,2011
+39,"Female","Native Hawaiian or other Pacific Islander",39,2011
+39,"Female","Two or more races",1626,2011
+40,"Male","White",11357,2011
+40,"Male","Black",1696,2011
+40,"Male","Hispanic",1395,2011
+40,"Male","Asian",756,2011
+40,"Male","American Indian or Alaska Native",2761,2011
+40,"Male","Native Hawaiian or other Pacific Islander",50,2011
+40,"Male","Two or more races",495,2011
+40,"Female","White",12594,2011
+40,"Female","Black",1857,2011
+40,"Female","Hispanic",1542,2011
+40,"Female","Asian",831,2011
+40,"Female","American Indian or Alaska Native",3355,2011
+40,"Female","Native Hawaiian or other Pacific Islander",32,2011
+40,"Female","Two or more races",630,2011
+41,"Male","White",7398,2011
+41,"Male","Black",382,2011
+41,"Male","Hispanic",1289,2011
+41,"Male","Asian",694,2011
+41,"Male","American Indian or Alaska Native",154,2011
+41,"Male","Native Hawaiian or other Pacific Islander",82,2011
+41,"Male","Two or more races",487,2011
+41,"Female","White",8323,2011
+41,"Female","Black",426,2011
+41,"Female","Hispanic",1559,2011
+41,"Female","Asian",793,2011
+41,"Female","American Indian or Alaska Native",211,2011
+41,"Female","Native Hawaiian or other Pacific Islander",93,2011
+41,"Female","Two or more races",467,2011
+42,"Male","White",42263,2011
+42,"Male","Black",6200,2011
+42,"Male","Hispanic",2227,2011
+42,"Male","Asian",2692,2011
+42,"Male","American Indian or Alaska Native",122,2011
+42,"Male","Native Hawaiian or other Pacific Islander",42,2011
+42,"Male","Two or more races",534,2011
+42,"Female","White",48666,2011
+42,"Female","Black",7817,2011
+42,"Female","Hispanic",2861,2011
+42,"Female","Asian",2837,2011
+42,"Female","American Indian or Alaska Native",128,2011
+42,"Female","Native Hawaiian or other Pacific Islander",48,2011
+42,"Female","Two or more races",641,2011
+44,"Male","White",2602,2011
+44,"Male","Black",265,2011
+44,"Male","Hispanic",425,2011
+44,"Male","Asian",134,2011
+44,"Male","American Indian or Alaska Native",39,2011
+44,"Male","Native Hawaiian or other Pacific Islander",9,2011
+44,"Male","Two or more races",173,2011
+44,"Female","White",2866,2011
+44,"Female","Black",384,2011
+44,"Female","Hispanic",571,2011
+44,"Female","Asian",218,2011
+44,"Female","American Indian or Alaska Native",64,2011
+44,"Female","Native Hawaiian or other Pacific Islander",13,2011
+44,"Female","Two or more races",229,2011
+45,"Male","White",10665,2011
+45,"Male","Black",5102,2011
+45,"Male","Hispanic",559,2011
+45,"Male","Asian",398,2011
+45,"Male","American Indian or Alaska Native",67,2011
+45,"Male","Native Hawaiian or other Pacific Islander",44,2011
+45,"Male","Two or more races",261,2011
+45,"Female","White",12606,2011
+45,"Female","Black",7007,2011
+45,"Female","Hispanic",672,2011
+45,"Female","Asian",488,2011
+45,"Female","American Indian or Alaska Native",89,2011
+45,"Female","Native Hawaiian or other Pacific Islander",51,2011
+45,"Female","Two or more races",340,2011
+46,"Male","White",3116,2011
+46,"Male","Black",67,2011
+46,"Male","Hispanic",67,2011
+46,"Male","Asian",52,2011
+46,"Male","American Indian or Alaska Native",148,2011
+46,"Male","Native Hawaiian or other Pacific Islander",2,2011
+46,"Male","Two or more races",30,2011
+46,"Female","White",3594,2011
+46,"Female","Black",77,2011
+46,"Female","Hispanic",71,2011
+46,"Female","Asian",69,2011
+46,"Female","American Indian or Alaska Native",182,2011
+46,"Female","Native Hawaiian or other Pacific Islander",4,2011
+46,"Female","Two or more races",48,2011
+47,"Male","White",26256,2011
+47,"Male","Black",9103,2011
+47,"Male","Hispanic",1350,2011
+47,"Male","Asian",754,2011
+47,"Male","American Indian or Alaska Native",106,2011
+47,"Male","Native Hawaiian or other Pacific Islander",67,2011
+47,"Male","Two or more races",161,2011
+47,"Female","White",27052,2011
+47,"Female","Black",10340,2011
+47,"Female","Hispanic",1379,2011
+47,"Female","Asian",761,2011
+47,"Female","American Indian or Alaska Native",104,2011
+47,"Female","Native Hawaiian or other Pacific Islander",71,2011
+47,"Female","Two or more races",232,2011
+48,"Male","White",39186,2011
+48,"Male","Black",13679,2011
+48,"Male","Hispanic",37622,2011
+48,"Male","Asian",6147,2011
+48,"Male","American Indian or Alaska Native",671,2011
+48,"Male","Native Hawaiian or other Pacific Islander",193,2011
+48,"Male","Two or more races",1988,2011
+48,"Female","White",42585,2011
+48,"Female","Black",15618,2011
+48,"Female","Hispanic",44736,2011
+48,"Female","Asian",6535,2011
+48,"Female","American Indian or Alaska Native",700,2011
+48,"Female","Native Hawaiian or other Pacific Islander",194,2011
+48,"Female","Two or more races",2259,2011
+49,"Male","White",19963,2011
+49,"Male","Black",328,2011
+49,"Male","Hispanic",2471,2011
+49,"Male","Asian",624,2011
+49,"Male","American Indian or Alaska Native",283,2011
+49,"Male","Native Hawaiian or other Pacific Islander",397,2011
+49,"Male","Two or more races",307,2011
+49,"Female","White",21043,2011
+49,"Female","Black",322,2011
+49,"Female","Hispanic",2685,2011
+49,"Female","Asian",525,2011
+49,"Female","American Indian or Alaska Native",322,2011
+49,"Female","Native Hawaiian or other Pacific Islander",362,2011
+49,"Female","Two or more races",310,2011
+50,"Male","White",2082,2011
+50,"Male","Black",54,2011
+50,"Male","Hispanic",36,2011
+50,"Male","Asian",66,2011
+50,"Male","American Indian or Alaska Native",11,2011
+50,"Male","Native Hawaiian or other Pacific Islander",8,2011
+50,"Male","Two or more races",19,2011
+50,"Female","White",2526,2011
+50,"Female","Black",61,2011
+50,"Female","Hispanic",22,2011
+50,"Female","Asian",109,2011
+50,"Female","American Indian or Alaska Native",25,2011
+50,"Female","Native Hawaiian or other Pacific Islander",6,2011
+50,"Female","Two or more races",17,2011
+51,"Male","White",19189,2011
+51,"Male","Black",6184,2011
+51,"Male","Hispanic",1969,2011
+51,"Male","Asian",2550,2011
+51,"Male","American Indian or Alaska Native",138,2011
+51,"Male","Native Hawaiian or other Pacific Islander",62,2011
+51,"Male","Two or more races",1073,2011
+51,"Female","White",21856,2011
+51,"Female","Black",7949,2011
+51,"Female","Hispanic",2482,2011
+51,"Female","Asian",2744,2011
+51,"Female","American Indian or Alaska Native",174,2011
+51,"Female","Native Hawaiian or other Pacific Islander",70,2011
+51,"Female","Two or more races",1343,2011
+53,"Male","White",11490,2011
+53,"Male","Black",806,2011
+53,"Male","Hispanic",1864,2011
+53,"Male","Asian",2319,2011
+53,"Male","American Indian or Alaska Native",266,2011
+53,"Male","Native Hawaiian or other Pacific Islander",123,2011
+53,"Male","Two or more races",775,2011
+53,"Female","White",13604,2011
+53,"Female","Black",1001,2011
+53,"Female","Hispanic",2711,2011
+53,"Female","Asian",2669,2011
+53,"Female","American Indian or Alaska Native",294,2011
+53,"Female","Native Hawaiian or other Pacific Islander",155,2011
+53,"Female","Two or more races",877,2011
+54,"Male","White",5043,2011
+54,"Male","Black",308,2011
+54,"Male","Hispanic",69,2011
+54,"Male","Asian",59,2011
+54,"Male","American Indian or Alaska Native",10,2011
+54,"Male","Native Hawaiian or other Pacific Islander",2,2011
+54,"Male","Two or more races",41,2011
+54,"Female","White",6024,2011
+54,"Female","Black",286,2011
+54,"Female","Hispanic",58,2011
+54,"Female","Asian",54,2011
+54,"Female","American Indian or Alaska Native",0,2011
+54,"Female","Native Hawaiian or other Pacific Islander",2,2011
+54,"Female","Two or more races",36,2011
+55,"Male","White",19702,2011
+55,"Male","Black",1842,2011
+55,"Male","Hispanic",1479,2011
+55,"Male","Asian",1288,2011
+55,"Male","American Indian or Alaska Native",214,2011
+55,"Male","Native Hawaiian or other Pacific Islander",35,2011
+55,"Male","Two or more races",310,2011
+55,"Female","White",23306,2011
+55,"Female","Black",2380,2011
+55,"Female","Hispanic",1641,2011
+55,"Female","Asian",1495,2011
+55,"Female","American Indian or Alaska Native",276,2011
+55,"Female","Native Hawaiian or other Pacific Islander",35,2011
+55,"Female","Two or more races",351,2011
+56,"Male","White",3365,2011
+56,"Male","Black",72,2011
+56,"Male","Hispanic",344,2011
+56,"Male","Asian",52,2011
+56,"Male","American Indian or Alaska Native",90,2011
+56,"Male","Native Hawaiian or other Pacific Islander",4,2011
+56,"Male","Two or more races",46,2011
+56,"Female","White",3512,2011
+56,"Female","Black",57,2011
+56,"Female","Hispanic",374,2011
+56,"Female","Asian",51,2011
+56,"Female","American Indian or Alaska Native",87,2011
+56,"Female","Native Hawaiian or other Pacific Islander",12,2011
+56,"Female","Two or more races",42,2011
+1,"Male","White",17420,2013
+1,"Male","Black",8759,2013
+1,"Male","Hispanic",943,2013
+1,"Male","Asian",479,2013
+1,"Male","American Indian or Alaska Native",271,2013
+1,"Male","Native Hawaiian or other Pacific Islander",23,2013
+1,"Male","Two or more races",308,2013
+1,"Female","White",18114,2013
+1,"Female","Black",9704,2013
+1,"Female","Hispanic",1072,2013
+1,"Female","Asian",474,2013
+1,"Female","American Indian or Alaska Native",220,2013
+1,"Female","Native Hawaiian or other Pacific Islander",32,2013
+1,"Female","Two or more races",349,2013
+2,"Male","White",1314,2013
+2,"Male","Black",72,2013
+2,"Male","Hispanic",106,2013
+2,"Male","Asian",207,2013
+2,"Male","American Indian or Alaska Native",364,2013
+2,"Male","Native Hawaiian or other Pacific Islander",35,2013
+2,"Male","Two or more races",139,2013
+2,"Female","White",1570,2013
+2,"Female","Black",77,2013
+2,"Female","Hispanic",153,2013
+2,"Female","Asian",297,2013
+2,"Female","American Indian or Alaska Native",504,2013
+2,"Female","Native Hawaiian or other Pacific Islander",55,2013
+2,"Female","Two or more races",208,2013
+4,"Male","White",8965,2013
+4,"Male","Black",1072,2013
+4,"Male","Hispanic",6468,2013
+4,"Male","Asian",1045,2013
+4,"Male","American Indian or Alaska Native",756,2013
+4,"Male","Native Hawaiian or other Pacific Islander",69,2013
+4,"Male","Two or more races",301,2013
+4,"Female","White",9765,2013
+4,"Female","Black",1154,2013
+4,"Female","Hispanic",7861,2013
+4,"Female","Asian",1098,2013
+4,"Female","American Indian or Alaska Native",816,2013
+4,"Female","Native Hawaiian or other Pacific Islander",101,2013
+4,"Female","Two or more races",358,2013
+5,"Male","White",12083,2013
+5,"Male","Black",2549,2013
+5,"Male","Hispanic",1175,2013
+5,"Male","Asian",411,2013
+5,"Male","American Indian or Alaska Native",114,2013
+5,"Male","Native Hawaiian or other Pacific Islander",34,2013
+5,"Male","Two or more races",198,2013
+5,"Female","White",13900,2013
+5,"Female","Black",3131,2013
+5,"Female","Hispanic",1468,2013
+5,"Female","Asian",413,2013
+5,"Female","American Indian or Alaska Native",121,2013
+5,"Female","Native Hawaiian or other Pacific Islander",34,2013
+5,"Female","Two or more races",202,2013
+6,"Male","White",36890,2013
+6,"Male","Black",6152,2013
+6,"Male","Hispanic",42925,2013
+6,"Male","Asian",26816,2013
+6,"Male","American Indian or Alaska Native",682,2013
+6,"Male","Native Hawaiian or other Pacific Islander",1008,2013
+6,"Male","Two or more races",3019,2013
+6,"Female","White",43042,2013
+6,"Female","Black",8577,2013
+6,"Female","Hispanic",60703,2013
+6,"Female","Asian",30177,2013
+6,"Female","American Indian or Alaska Native",865,2013
+6,"Female","Native Hawaiian or other Pacific Islander",1321,2013
+6,"Female","Two or more races",3874,2013
+8,"Male","White",17476,2013
+8,"Male","Black",1389,2013
+8,"Male","Hispanic",7802,2013
+8,"Male","Asian",1077,2013
+8,"Male","American Indian or Alaska Native",255,2013
+8,"Male","Native Hawaiian or other Pacific Islander",110,2013
+8,"Male","Two or more races",903,2013
+8,"Female","White",17382,2013
+8,"Female","Black",1384,2013
+8,"Female","Hispanic",7824,2013
+8,"Female","Asian",1243,2013
+8,"Female","American Indian or Alaska Native",280,2013
+8,"Female","Native Hawaiian or other Pacific Islander",94,2013
+8,"Female","Two or more races",995,2013
+9,"Male","White",13090,2013
+9,"Male","Black",1898,2013
+9,"Male","Hispanic",2028,2013
+9,"Male","Asian",1074,2013
+9,"Male","American Indian or Alaska Native",72,2013
+9,"Male","Native Hawaiian or other Pacific Islander",12,2013
+9,"Male","Two or more races",307,2013
+9,"Female","White",14541,2013
+9,"Female","Black",2236,2013
+9,"Female","Hispanic",2540,2013
+9,"Female","Asian",1218,2013
+9,"Female","American Indian or Alaska Native",82,2013
+9,"Female","Native Hawaiian or other Pacific Islander",27,2013
+9,"Female","Two or more races",339,2013
+10,"Male","White",2681,2013
+10,"Male","Black",1514,2013
+10,"Male","Hispanic",451,2013
+10,"Male","Asian",229,2013
+10,"Male","American Indian or Alaska Native",24,2013
+10,"Male","Native Hawaiian or other Pacific Islander",6,2013
+10,"Male","Two or more races",50,2013
+10,"Female","White",2790,2013
+10,"Female","Black",1748,2013
+10,"Female","Hispanic",527,2013
+10,"Female","Asian",234,2013
+10,"Female","American Indian or Alaska Native",26,2013
+10,"Female","Native Hawaiian or other Pacific Islander",2,2013
+10,"Female","Two or more races",65,2013
+11,"Male","White",118,2013
+11,"Male","Black",1792,2013
+11,"Male","Hispanic",274,2013
+11,"Male","Asian",47,2013
+11,"Male","American Indian or Alaska Native",2,2013
+11,"Male","Native Hawaiian or other Pacific Islander",4,2013
+11,"Male","Two or more races",33,2013
+11,"Female","White",128,2013
+11,"Female","Black",2278,2013
+11,"Female","Hispanic",299,2013
+11,"Female","Asian",46,2013
+11,"Female","American Indian or Alaska Native",4,2013
+11,"Female","Native Hawaiian or other Pacific Islander",2,2013
+11,"Female","Two or more races",37,2013
+12,"Male","White",43791,2013
+12,"Male","Black",20172,2013
+12,"Male","Hispanic",27296,2013
+12,"Male","Asian",3619,2013
+12,"Male","American Indian or Alaska Native",486,2013
+12,"Male","Native Hawaiian or other Pacific Islander",207,2013
+12,"Male","Two or more races",2735,2013
+12,"Female","White",52702,2013
+12,"Female","Black",25636,2013
+12,"Female","Hispanic",34800,2013
+12,"Female","Asian",3967,2013
+12,"Female","American Indian or Alaska Native",582,2013
+12,"Female","Native Hawaiian or other Pacific Islander",208,2013
+12,"Female","Two or more races",3597,2013
+13,"Male","White",19310,2013
+13,"Male","Black",12959,2013
+13,"Male","Hispanic",2962,2013
+13,"Male","Asian",2753,2013
+13,"Male","American Indian or Alaska Native",99,2013
+13,"Male","Native Hawaiian or other Pacific Islander",55,2013
+13,"Male","Two or more races",929,2013
+13,"Female","White",22885,2013
+13,"Female","Black",16571,2013
+13,"Female","Hispanic",3657,2013
+13,"Female","Asian",2824,2013
+13,"Female","American Indian or Alaska Native",139,2013
+13,"Female","Native Hawaiian or other Pacific Islander",49,2013
+13,"Female","Two or more races",1212,2013
+15,"Male","White",2587,2013
+15,"Male","Black",390,2013
+15,"Male","Hispanic",1135,2013
+15,"Male","Asian",7967,2013
+15,"Male","American Indian or Alaska Native",118,2013
+15,"Male","Native Hawaiian or other Pacific Islander",6013,2013
+15,"Male","Two or more races",1447,2013
+15,"Female","White",2483,2013
+15,"Female","Black",425,2013
+15,"Female","Hispanic",1172,2013
+15,"Female","Asian",7848,2013
+15,"Female","American Indian or Alaska Native",106,2013
+15,"Female","Native Hawaiian or other Pacific Islander",5901,2013
+15,"Female","Two or more races",1441,2013
+16,"Male","White",8316,2013
+16,"Male","Black",134,2013
+16,"Male","Hispanic",1477,2013
+16,"Male","Asian",185,2013
+16,"Male","American Indian or Alaska Native",156,2013
+16,"Male","Native Hawaiian or other Pacific Islander",26,2013
+16,"Male","Two or more races",135,2013
+16,"Female","White",8445,2013
+16,"Female","Black",107,2013
+16,"Female","Hispanic",1424,2013
+16,"Female","Asian",233,2013
+16,"Female","American Indian or Alaska Native",170,2013
+16,"Female","Native Hawaiian or other Pacific Islander",48,2013
+16,"Female","Two or more races",150,2013
+17,"Male","White",41666,2013
+17,"Male","Black",11739,2013
+17,"Male","Hispanic",15011,2013
+17,"Male","Asian",4334,2013
+17,"Male","American Indian or Alaska Native",263,2013
+17,"Male","Native Hawaiian or other Pacific Islander",136,2013
+17,"Male","Two or more races",1874,2013
+17,"Female","White",41447,2013
+17,"Female","Black",12910,2013
+17,"Female","Hispanic",15133,2013
+17,"Female","Asian",4407,2013
+17,"Female","American Indian or Alaska Native",287,2013
+17,"Female","Native Hawaiian or other Pacific Islander",148,2013
+17,"Female","Two or more races",1914,2013
+18,"Male","White",23426,2013
+18,"Male","Black",2394,2013
+18,"Male","Hispanic",1813,2013
+18,"Male","Asian",858,2013
+18,"Male","American Indian or Alaska Native",116,2013
+18,"Male","Native Hawaiian or other Pacific Islander",21,2013
+18,"Male","Two or more races",991,2013
+18,"Female","White",28913,2013
+18,"Female","Black",3286,2013
+18,"Female","Hispanic",2372,2013
+18,"Female","Asian",1001,2013
+18,"Female","American Indian or Alaska Native",133,2013
+18,"Female","Native Hawaiian or other Pacific Islander",40,2013
+18,"Female","Two or more races",1127,2013
+19,"Male","White",10340,2013
+19,"Male","Black",488,2013
+19,"Male","Hispanic",664,2013
+19,"Male","Asian",422,2013
+19,"Male","American Indian or Alaska Native",40,2013
+19,"Male","Native Hawaiian or other Pacific Islander",12,2013
+19,"Male","Two or more races",229,2013
+19,"Female","White",11816,2013
+19,"Female","Black",496,2013
+19,"Female","Hispanic",869,2013
+19,"Female","Asian",549,2013
+19,"Female","American Indian or Alaska Native",55,2013
+19,"Female","Native Hawaiian or other Pacific Islander",20,2013
+19,"Female","Two or more races",305,2013
+20,"Male","White",8415,2013
+20,"Male","Black",695,2013
+20,"Male","Hispanic",1158,2013
+20,"Male","Asian",471,2013
+20,"Male","American Indian or Alaska Native",130,2013
+20,"Male","Native Hawaiian or other Pacific Islander",22,2013
+20,"Male","Two or more races",463,2013
+20,"Female","White",9794,2013
+20,"Female","Black",769,2013
+20,"Female","Hispanic",1494,2013
+20,"Female","Asian",525,2013
+20,"Female","American Indian or Alaska Native",152,2013
+20,"Female","Native Hawaiian or other Pacific Islander",32,2013
+20,"Female","Two or more races",557,2013
+21,"Male","White",10127,2013
+21,"Male","Black",2357,2013
+21,"Male","Hispanic",584,2013
+21,"Male","Asian",414,2013
+21,"Male","American Indian or Alaska Native",16,2013
+21,"Male","Native Hawaiian or other Pacific Islander",20,2013
+21,"Male","Two or more races",242,2013
+21,"Female","White",10990,2013
+21,"Female","Black",2572,2013
+21,"Female","Hispanic",660,2013
+21,"Female","Asian",414,2013
+21,"Female","American Indian or Alaska Native",30,2013
+21,"Female","Native Hawaiian or other Pacific Islander",20,2013
+21,"Female","Two or more races",276,2013
+22,"Male","White",13020,2013
+22,"Male","Black",8496,2013
+22,"Male","Hispanic",1008,2013
+22,"Male","Asian",617,2013
+22,"Male","American Indian or Alaska Native",248,2013
+22,"Male","Native Hawaiian or other Pacific Islander",18,2013
+22,"Male","Two or more races",159,2013
+22,"Female","White",14056,2013
+22,"Female","Black",10262,2013
+22,"Female","Hispanic",994,2013
+22,"Female","Asian",669,2013
+22,"Female","American Indian or Alaska Native",263,2013
+22,"Female","Native Hawaiian or other Pacific Islander",26,2013
+22,"Female","Two or more races",213,2013
+23,"Male","White",5601,2013
+23,"Male","Black",250,2013
+23,"Male","Hispanic",116,2013
+23,"Male","Asian",113,2013
+23,"Male","American Indian or Alaska Native",44,2013
+23,"Male","Native Hawaiian or other Pacific Islander",8,2013
+23,"Male","Two or more races",66,2013
+23,"Female","White",5874,2013
+23,"Female","Black",233,2013
+23,"Female","Hispanic",98,2013
+23,"Female","Asian",138,2013
+23,"Female","American Indian or Alaska Native",50,2013
+23,"Female","Native Hawaiian or other Pacific Islander",12,2013
+23,"Female","Two or more races",80,2013
+24,"Male","White",15941,2013
+24,"Male","Black",9611,2013
+24,"Male","Hispanic",2404,2013
+24,"Male","Asian",2822,2013
+24,"Male","American Indian or Alaska Native",130,2013
+24,"Male","Native Hawaiian or other Pacific Islander",50,2013
+24,"Male","Two or more races",950,2013
+24,"Female","White",17525,2013
+24,"Female","Black",12016,2013
+24,"Female","Hispanic",2961,2013
+24,"Female","Asian",2908,2013
+24,"Female","American Indian or Alaska Native",134,2013
+24,"Female","Native Hawaiian or other Pacific Islander",79,2013
+24,"Female","Two or more races",1125,2013
+25,"Male","White",20155,2013
+25,"Male","Black",2008,2013
+25,"Male","Hispanic",2147,2013
+25,"Male","Asian",1914,2013
+25,"Male","American Indian or Alaska Native",78,2013
+25,"Male","Native Hawaiian or other Pacific Islander",36,2013
+25,"Male","Two or more races",500,2013
+25,"Female","White",22445,2013
+25,"Female","Black",2455,2013
+25,"Female","Hispanic",2494,2013
+25,"Female","Asian",2092,2013
+25,"Female","American Indian or Alaska Native",74,2013
+25,"Female","Native Hawaiian or other Pacific Islander",28,2013
+25,"Female","Two or more races",633,2013
+26,"Male","White",43106,2013
+26,"Male","Black",8751,2013
+26,"Male","Hispanic",2932,2013
+26,"Male","Asian",1899,2013
+26,"Male","American Indian or Alaska Native",556,2013
+26,"Male","Native Hawaiian or other Pacific Islander",86,2013
+26,"Male","Two or more races",1205,2013
+26,"Female","White",42613,2013
+26,"Female","Black",9548,2013
+26,"Female","Hispanic",3035,2013
+26,"Female","Asian",2045,2013
+26,"Female","American Indian or Alaska Native",514,2013
+26,"Female","Native Hawaiian or other Pacific Islander",90,2013
+26,"Female","Two or more races",1341,2013
+27,"Male","White",19984,2013
+27,"Male","Black",1804,2013
+27,"Male","Hispanic",1143,2013
+27,"Male","Asian",2015,2013
+27,"Male","American Indian or Alaska Native",219,2013
+27,"Male","Native Hawaiian or other Pacific Islander",10,2013
+27,"Male","Two or more races",316,2013
+27,"Female","White",22584,2013
+27,"Female","Black",2161,2013
+27,"Female","Hispanic",1325,2013
+27,"Female","Asian",2284,2013
+27,"Female","American Indian or Alaska Native",312,2013
+27,"Female","Native Hawaiian or other Pacific Islander",18,2013
+27,"Female","Two or more races",371,2013
+28,"Male","White",9290,2013
+28,"Male","Black",6530,2013
+28,"Male","Hispanic",459,2013
+28,"Male","Asian",346,2013
+28,"Male","American Indian or Alaska Native",38,2013
+28,"Male","Native Hawaiian or other Pacific Islander",6,2013
+28,"Male","Two or more races",11,2013
+28,"Female","White",10755,2013
+28,"Female","Black",8307,2013
+28,"Female","Hispanic",419,2013
+28,"Female","Asian",307,2013
+28,"Female","American Indian or Alaska Native",35,2013
+28,"Female","Native Hawaiian or other Pacific Islander",6,2013
+28,"Female","Two or more races",24,2013
+29,"Male","White",23452,2013
+29,"Male","Black",4313,2013
+29,"Male","Hispanic",1251,2013
+29,"Male","Asian",914,2013
+29,"Male","American Indian or Alaska Native",143,2013
+29,"Male","Native Hawaiian or other Pacific Islander",85,2013
+29,"Male","Two or more races",459,2013
+29,"Female","White",27504,2013
+29,"Female","Black",5099,2013
+29,"Female","Hispanic",1297,2013
+29,"Female","Asian",967,2013
+29,"Female","American Indian or Alaska Native",163,2013
+29,"Female","Native Hawaiian or other Pacific Islander",53,2013
+29,"Female","Two or more races",542,2013
+30,"Male","White",3417,2013
+30,"Male","Black",51,2013
+30,"Male","Hispanic",123,2013
+30,"Male","Asian",55,2013
+30,"Male","American Indian or Alaska Native",285,2013
+30,"Male","Native Hawaiian or other Pacific Islander",14,2013
+30,"Male","Two or more races",51,2013
+30,"Female","White",3540,2013
+30,"Female","Black",49,2013
+30,"Female","Hispanic",116,2013
+30,"Female","Asian",62,2013
+30,"Female","American Indian or Alaska Native",286,2013
+30,"Female","Native Hawaiian or other Pacific Islander",14,2013
+30,"Female","Two or more races",45,2013
+31,"Male","White",8068,2013
+31,"Male","Black",491,2013
+31,"Male","Hispanic",1171,2013
+31,"Male","Asian",279,2013
+31,"Male","American Indian or Alaska Native",111,2013
+31,"Male","Native Hawaiian or other Pacific Islander",18,2013
+31,"Male","Two or more races",293,2013
+31,"Female","White",9284,2013
+31,"Female","Black",577,2013
+31,"Female","Hispanic",1410,2013
+31,"Female","Asian",367,2013
+31,"Female","American Indian or Alaska Native",102,2013
+31,"Female","Native Hawaiian or other Pacific Islander",16,2013
+31,"Female","Two or more races",329,2013
+32,"Male","White",3442,2013
+32,"Male","Black",519,2013
+32,"Male","Hispanic",1522,2013
+32,"Male","Asian",731,2013
+32,"Male","American Indian or Alaska Native",63,2013
+32,"Male","Native Hawaiian or other Pacific Islander",107,2013
+32,"Male","Two or more races",416,2013
+32,"Female","White",4097,2013
+32,"Female","Black",629,2013
+32,"Female","Hispanic",2163,2013
+32,"Female","Asian",848,2013
+32,"Female","American Indian or Alaska Native",95,2013
+32,"Female","Native Hawaiian or other Pacific Islander",120,2013
+32,"Female","Two or more races",481,2013
+33,"Male","White",5067,2013
+33,"Male","Black",88,2013
+33,"Male","Hispanic",114,2013
+33,"Male","Asian",227,2013
+33,"Male","American Indian or Alaska Native",15,2013
+33,"Male","Native Hawaiian or other Pacific Islander",6,2013
+33,"Male","Two or more races",65,2013
+33,"Female","White",6031,2013
+33,"Female","Black",117,2013
+33,"Female","Hispanic",140,2013
+33,"Female","Asian",250,2013
+33,"Female","American Indian or Alaska Native",22,2013
+33,"Female","Native Hawaiian or other Pacific Islander",4,2013
+33,"Female","Two or more races",71,2013
+34,"Male","White",30816,2013
+34,"Male","Black",5348,2013
+34,"Male","Hispanic",5920,2013
+34,"Male","Asian",6975,2013
+34,"Male","American Indian or Alaska Native",88,2013
+34,"Male","Native Hawaiian or other Pacific Islander",182,2013
+34,"Male","Two or more races",411,2013
+34,"Female","White",33731,2013
+34,"Female","Black",6751,2013
+34,"Female","Hispanic",7491,2013
+34,"Female","Asian",7194,2013
+34,"Female","American Indian or Alaska Native",79,2013
+34,"Female","Native Hawaiian or other Pacific Islander",132,2013
+34,"Female","Two or more races",454,2013
+35,"Male","White",2189,2013
+35,"Male","Black",145,2013
+35,"Male","Hispanic",3567,2013
+35,"Male","Asian",191,2013
+35,"Male","American Indian or Alaska Native",460,2013
+35,"Male","Native Hawaiian or other Pacific Islander",8,2013
+35,"Male","Two or more races",92,2013
+35,"Female","White",2635,2013
+35,"Female","Black",161,2013
+35,"Female","Hispanic",4560,2013
+35,"Female","Asian",233,2013
+35,"Female","American Indian or Alaska Native",679,2013
+35,"Female","Native Hawaiian or other Pacific Islander",10,2013
+35,"Female","Two or more races",138,2013
+36,"Male","White",45475,2013
+36,"Male","Black",11306,2013
+36,"Male","Hispanic",13564,2013
+36,"Male","Asian",11519,2013
+36,"Male","American Indian or Alaska Native",450,2013
+36,"Male","Native Hawaiian or other Pacific Islander",254,2013
+36,"Male","Two or more races",625,2013
+36,"Female","White",51884,2013
+36,"Female","Black",15411,2013
+36,"Female","Hispanic",18066,2013
+36,"Female","Asian",11973,2013
+36,"Female","American Indian or Alaska Native",503,2013
+36,"Female","Native Hawaiian or other Pacific Islander",272,2013
+36,"Female","Two or more races",761,2013
+37,"Male","White",36822,2013
+37,"Male","Black",16289,2013
+37,"Male","Hispanic",6247,2013
+37,"Male","Asian",2500,2013
+37,"Male","American Indian or Alaska Native",837,2013
+37,"Male","Native Hawaiian or other Pacific Islander",109,2013
+37,"Male","Two or more races",2303,2013
+37,"Female","White",38731,2013
+37,"Female","Black",19113,2013
+37,"Female","Hispanic",6971,2013
+37,"Female","Asian",2453,2013
+37,"Female","American Indian or Alaska Native",988,2013
+37,"Female","Native Hawaiian or other Pacific Islander",136,2013
+37,"Female","Two or more races",2532,2013
+38,"Male","White",2961,2013
+38,"Male","Black",116,2013
+38,"Male","Hispanic",103,2013
+38,"Male","Asian",57,2013
+38,"Male","American Indian or Alaska Native",240,2013
+38,"Male","Native Hawaiian or other Pacific Islander",6,2013
+38,"Male","Two or more races",14,2013
+38,"Female","White",2994,2013
+38,"Female","Black",104,2013
+38,"Female","Hispanic",75,2013
+38,"Female","Asian",73,2013
+38,"Female","American Indian or Alaska Native",266,2013
+38,"Female","Native Hawaiian or other Pacific Islander",6,2013
+38,"Female","Two or more races",10,2013
+39,"Male","White",39760,2013
+39,"Male","Black",6674,2013
+39,"Male","Hispanic",1451,2013
+39,"Male","Asian",1530,2013
+39,"Male","American Indian or Alaska Native",88,2013
+39,"Male","Native Hawaiian or other Pacific Islander",36,2013
+39,"Male","Two or more races",1651,2013
+39,"Female","White",46218,2013
+39,"Female","Black",8017,2013
+39,"Female","Hispanic",1582,2013
+39,"Female","Asian",1678,2013
+39,"Female","American Indian or Alaska Native",120,2013
+39,"Female","Native Hawaiian or other Pacific Islander",44,2013
+39,"Female","Two or more races",1849,2013
+40,"Male","White",13214,2013
+40,"Male","Black",1771,2013
+40,"Male","Hispanic",1909,2013
+40,"Male","Asian",831,2013
+40,"Male","American Indian or Alaska Native",3296,2013
+40,"Male","Native Hawaiian or other Pacific Islander",52,2013
+40,"Male","Two or more races",814,2013
+40,"Female","White",15330,2013
+40,"Female","Black",1911,2013
+40,"Female","Hispanic",2243,2013
+40,"Female","Asian",879,2013
+40,"Female","American Indian or Alaska Native",3948,2013
+40,"Female","Native Hawaiian or other Pacific Islander",51,2013
+40,"Female","Two or more races",1081,2013
+41,"Male","White",8096,2013
+41,"Male","Black",352,2013
+41,"Male","Hispanic",2086,2013
+41,"Male","Asian",871,2013
+41,"Male","American Indian or Alaska Native",163,2013
+41,"Male","Native Hawaiian or other Pacific Islander",106,2013
+41,"Male","Two or more races",629,2013
+41,"Female","White",9572,2013
+41,"Female","Black",386,2013
+41,"Female","Hispanic",2510,2013
+41,"Female","Asian",1102,2013
+41,"Female","American Indian or Alaska Native",188,2013
+41,"Female","Native Hawaiian or other Pacific Islander",140,2013
+41,"Female","Two or more races",744,2013
+42,"Male","White",41854,2013
+42,"Male","Black",6343,2013
+42,"Male","Hispanic",2682,2013
+42,"Male","Asian",2986,2013
+42,"Male","American Indian or Alaska Native",84,2013
+42,"Male","Native Hawaiian or other Pacific Islander",45,2013
+42,"Male","Two or more races",737,2013
+42,"Female","White",48451,2013
+42,"Female","Black",8143,2013
+42,"Female","Hispanic",3571,2013
+42,"Female","Asian",3330,2013
+42,"Female","American Indian or Alaska Native",125,2013
+42,"Female","Native Hawaiian or other Pacific Islander",40,2013
+42,"Female","Two or more races",927,2013
+44,"Male","White",2045,2013
+44,"Male","Black",304,2013
+44,"Male","Hispanic",520,2013
+44,"Male","Asian",155,2013
+44,"Male","American Indian or Alaska Native",14,2013
+44,"Male","Native Hawaiian or other Pacific Islander",11,2013
+44,"Male","Two or more races",74,2013
+44,"Female","White",2525,2013
+44,"Female","Black",337,2013
+44,"Female","Hispanic",677,2013
+44,"Female","Asian",155,2013
+44,"Female","American Indian or Alaska Native",20,2013
+44,"Female","Native Hawaiian or other Pacific Islander",8,2013
+44,"Female","Two or more races",101,2013
+45,"Male","White",11203,2013
+45,"Male","Black",5228,2013
+45,"Male","Hispanic",646,2013
+45,"Male","Asian",490,2013
+45,"Male","American Indian or Alaska Native",66,2013
+45,"Male","Native Hawaiian or other Pacific Islander",36,2013
+45,"Male","Two or more races",360,2013
+45,"Female","White",13437,2013
+45,"Female","Black",7159,2013
+45,"Female","Hispanic",795,2013
+45,"Female","Asian",545,2013
+45,"Female","American Indian or Alaska Native",93,2013
+45,"Female","Native Hawaiian or other Pacific Islander",38,2013
+45,"Female","Two or more races",390,2013
+46,"Male","White",3025,2013
+46,"Male","Black",103,2013
+46,"Male","Hispanic",87,2013
+46,"Male","Asian",52,2013
+46,"Male","American Indian or Alaska Native",197,2013
+46,"Male","Native Hawaiian or other Pacific Islander",0,2013
+46,"Male","Two or more races",49,2013
+46,"Female","White",3518,2013
+46,"Female","Black",86,2013
+46,"Female","Hispanic",89,2013
+46,"Female","Asian",74,2013
+46,"Female","American Indian or Alaska Native",262,2013
+46,"Female","Native Hawaiian or other Pacific Islander",2,2013
+46,"Female","Two or more races",80,2013
+47,"Male","White",24697,2013
+47,"Male","Black",7450,2013
+47,"Male","Hispanic",1900,2013
+47,"Male","Asian",748,2013
+47,"Male","American Indian or Alaska Native",98,2013
+47,"Male","Native Hawaiian or other Pacific Islander",69,2013
+47,"Male","Two or more races",346,2013
+47,"Female","White",25890,2013
+47,"Female","Black",8198,2013
+47,"Female","Hispanic",1844,2013
+47,"Female","Asian",749,2013
+47,"Female","American Indian or Alaska Native",86,2013
+47,"Female","Native Hawaiian or other Pacific Islander",54,2013
+47,"Female","Two or more races",410,2013
+48,"Male","White",37372,2013
+48,"Male","Black",14843,2013
+48,"Male","Hispanic",44942,2013
+48,"Male","Asian",7565,2013
+48,"Male","American Indian or Alaska Native",647,2013
+48,"Male","Native Hawaiian or other Pacific Islander",219,2013
+48,"Male","Two or more races",1942,2013
+48,"Female","White",41605,2013
+48,"Female","Black",16786,2013
+48,"Female","Hispanic",52696,2013
+48,"Female","Asian",7922,2013
+48,"Female","American Indian or Alaska Native",607,2013
+48,"Female","Native Hawaiian or other Pacific Islander",261,2013
+48,"Female","Two or more races",2295,2013
+49,"Male","White",23906,2013
+49,"Male","Black",383,2013
+49,"Male","Hispanic",3607,2013
+49,"Male","Asian",647,2013
+49,"Male","American Indian or Alaska Native",320,2013
+49,"Male","Native Hawaiian or other Pacific Islander",415,2013
+49,"Male","Two or more races",547,2013
+49,"Female","White",23704,2013
+49,"Female","Black",369,2013
+49,"Female","Hispanic",3513,2013
+49,"Female","Asian",644,2013
+49,"Female","American Indian or Alaska Native",303,2013
+49,"Female","Native Hawaiian or other Pacific Islander",411,2013
+49,"Female","Two or more races",589,2013
+50,"Male","White",2606,2013
+50,"Male","Black",65,2013
+50,"Male","Hispanic",47,2013
+50,"Male","Asian",87,2013
+50,"Male","American Indian or Alaska Native",8,2013
+50,"Male","Native Hawaiian or other Pacific Islander",15,2013
+50,"Male","Two or more races",27,2013
+50,"Female","White",3080,2013
+50,"Female","Black",58,2013
+50,"Female","Hispanic",39,2013
+50,"Female","Asian",105,2013
+50,"Female","American Indian or Alaska Native",18,2013
+50,"Female","Native Hawaiian or other Pacific Islander",12,2013
+50,"Female","Two or more races",23,2013
+51,"Male","White",18683,2013
+51,"Male","Black",5885,2013
+51,"Male","Hispanic",2238,2013
+51,"Male","Asian",2755,2013
+51,"Male","American Indian or Alaska Native",141,2013
+51,"Male","Native Hawaiian or other Pacific Islander",74,2013
+51,"Male","Two or more races",1158,2013
+51,"Female","White",21716,2013
+51,"Female","Black",7384,2013
+51,"Female","Hispanic",2724,2013
+51,"Female","Asian",3005,2013
+51,"Female","American Indian or Alaska Native",188,2013
+51,"Female","Native Hawaiian or other Pacific Islander",78,2013
+51,"Female","Two or more races",1489,2013
+53,"Male","White",11888,2013
+53,"Male","Black",1338,2013
+53,"Male","Hispanic",2840,2013
+53,"Male","Asian",2561,2013
+53,"Male","American Indian or Alaska Native",246,2013
+53,"Male","Native Hawaiian or other Pacific Islander",249,2013
+53,"Male","Two or more races",1130,2013
+53,"Female","White",13479,2013
+53,"Female","Black",1337,2013
+53,"Female","Hispanic",3649,2013
+53,"Female","Asian",2951,2013
+53,"Female","American Indian or Alaska Native",283,2013
+53,"Female","Native Hawaiian or other Pacific Islander",247,2013
+53,"Female","Two or more races",1295,2013
+54,"Male","White",4771,2013
+54,"Male","Black",279,2013
+54,"Male","Hispanic",64,2013
+54,"Male","Asian",56,2013
+54,"Male","American Indian or Alaska Native",16,2013
+54,"Male","Native Hawaiian or other Pacific Islander",0,2013
+54,"Male","Two or more races",57,2013
+54,"Female","White",6342,2013
+54,"Female","Black",273,2013
+54,"Female","Hispanic",80,2013
+54,"Female","Asian",108,2013
+54,"Female","American Indian or Alaska Native",6,2013
+54,"Female","Native Hawaiian or other Pacific Islander",0,2013
+54,"Female","Two or more races",88,2013
+55,"Male","White",16755,2013
+55,"Male","Black",1564,2013
+55,"Male","Hispanic",1369,2013
+55,"Male","Asian",1029,2013
+55,"Male","American Indian or Alaska Native",180,2013
+55,"Male","Native Hawaiian or other Pacific Islander",18,2013
+55,"Male","Two or more races",404,2013
+55,"Female","White",19929,2013
+55,"Female","Black",1802,2013
+55,"Female","Hispanic",1571,2013
+55,"Female","Asian",1164,2013
+55,"Female","American Indian or Alaska Native",220,2013
+55,"Female","Native Hawaiian or other Pacific Islander",34,2013
+55,"Female","Two or more races",434,2013
+56,"Male","White",3734,2013
+56,"Male","Black",69,2013
+56,"Male","Hispanic",522,2013
+56,"Male","Asian",64,2013
+56,"Male","American Indian or Alaska Native",102,2013
+56,"Male","Native Hawaiian or other Pacific Islander",8,2013
+56,"Male","Two or more races",73,2013
+56,"Female","White",3772,2013
+56,"Female","Black",67,2013
+56,"Female","Hispanic",500,2013
+56,"Female","Asian",60,2013
+56,"Female","American Indian or Alaska Native",121,2013
+56,"Female","Native Hawaiian or other Pacific Islander",4,2013
+56,"Female","Two or more races",86,2013
+1,"Male","White",18119,2015
+1,"Male","Black",9458,2015
+1,"Male","Hispanic",1223,2015
+1,"Male","Asian",562,2015
+1,"Male","American Indian or Alaska Native",407,2015
+1,"Male","Native Hawaiian or other Pacific Islander",36,2015
+1,"Male","Two or more races",330,2015
+1,"Female","White",18776,2015
+1,"Female","Black",10510,2015
+1,"Female","Hispanic",1218,2015
+1,"Female","Asian",580,2015
+1,"Female","American Indian or Alaska Native",405,2015
+1,"Female","Native Hawaiian or other Pacific Islander",42,2015
+1,"Female","Two or more races",354,2015
+2,"Male","White",2214,2015
+2,"Male","Black",123,2015
+2,"Male","Hispanic",246,2015
+2,"Male","Asian",318,2015
+2,"Male","American Indian or Alaska Native",796,2015
+2,"Male","Native Hawaiian or other Pacific Islander",85,2015
+2,"Male","Two or more races",316,2015
+2,"Female","White",2558,2015
+2,"Female","Black",144,2015
+2,"Female","Hispanic",325,2015
+2,"Female","Asian",401,2015
+2,"Female","American Indian or Alaska Native",987,2015
+2,"Female","Native Hawaiian or other Pacific Islander",100,2015
+2,"Female","Two or more races",366,2015
+4,"Male","White",10526,2015
+4,"Male","Black",1324,2015
+4,"Male","Hispanic",9188,2015
+4,"Male","Asian",1243,2015
+4,"Male","American Indian or Alaska Native",660,2015
+4,"Male","Native Hawaiian or other Pacific Islander",97,2015
+4,"Male","Two or more races",557,2015
+4,"Female","White",11742,2015
+4,"Female","Black",1484,2015
+4,"Female","Hispanic",10491,2015
+4,"Female","Asian",1355,2015
+4,"Female","American Indian or Alaska Native",892,2015
+4,"Female","Native Hawaiian or other Pacific Islander",113,2015
+4,"Female","Two or more races",580,2015
+5,"Male","White",15313,2015
+5,"Male","Black",3272,2015
+5,"Male","Hispanic",2093,2015
+5,"Male","Asian",476,2015
+5,"Male","American Indian or Alaska Native",156,2015
+5,"Male","Native Hawaiian or other Pacific Islander",113,2015
+5,"Male","Two or more races",427,2015
+5,"Female","White",16791,2015
+5,"Female","Black",4021,2015
+5,"Female","Hispanic",2355,2015
+5,"Female","Asian",541,2015
+5,"Female","American Indian or Alaska Native",183,2015
+5,"Female","Native Hawaiian or other Pacific Islander",84,2015
+5,"Female","Two or more races",442,2015
+6,"Male","White",36888,2015
+6,"Male","Black",7235,2015
+6,"Male","Hispanic",53543,2015
+6,"Male","Asian",28585,2015
+6,"Male","American Indian or Alaska Native",680,2015
+6,"Male","Native Hawaiian or other Pacific Islander",1069,2015
+6,"Male","Two or more races",4184,2015
+6,"Female","White",43288,2015
+6,"Female","Black",9511,2015
+6,"Female","Hispanic",76186,2015
+6,"Female","Asian",31574,2015
+6,"Female","American Indian or Alaska Native",927,2015
+6,"Female","Native Hawaiian or other Pacific Islander",1297,2015
+6,"Female","Two or more races",5240,2015
+8,"Male","White",16897,2015
+8,"Male","Black",1305,2015
+8,"Male","Hispanic",8440,2015
+8,"Male","Asian",970,2015
+8,"Male","American Indian or Alaska Native",295,2015
+8,"Male","Native Hawaiian or other Pacific Islander",93,2015
+8,"Male","Two or more races",1129,2015
+8,"Female","White",16832,2015
+8,"Female","Black",1332,2015
+8,"Female","Hispanic",8513,2015
+8,"Female","Asian",1098,2015
+8,"Female","American Indian or Alaska Native",250,2015
+8,"Female","Native Hawaiian or other Pacific Islander",144,2015
+8,"Female","Two or more races",1115,2015
+9,"Male","White",16747,2015
+9,"Male","Black",2936,2015
+9,"Male","Hispanic",4151,2015
+9,"Male","Asian",1389,2015
+9,"Male","American Indian or Alaska Native",95,2015
+9,"Male","Native Hawaiian or other Pacific Islander",24,2015
+9,"Male","Two or more races",559,2015
+9,"Female","White",17341,2015
+9,"Female","Black",3014,2015
+9,"Female","Hispanic",4530,2015
+9,"Female","Asian",1512,2015
+9,"Female","American Indian or Alaska Native",104,2015
+9,"Female","Native Hawaiian or other Pacific Islander",28,2015
+9,"Female","Two or more races",691,2015
+10,"Male","White",2426,2015
+10,"Male","Black",1316,2015
+10,"Male","Hispanic",508,2015
+10,"Male","Asian",177,2015
+10,"Male","American Indian or Alaska Native",30,2015
+10,"Male","Native Hawaiian or other Pacific Islander",12,2015
+10,"Male","Two or more races",113,2015
+10,"Female","White",2436,2015
+10,"Female","Black",1501,2015
+10,"Female","Hispanic",584,2015
+10,"Female","Asian",169,2015
+10,"Female","American Indian or Alaska Native",38,2015
+10,"Female","Native Hawaiian or other Pacific Islander",10,2015
+10,"Female","Two or more races",110,2015
+11,"Male","White",161,2015
+11,"Male","Black",1826,2015
+11,"Male","Hispanic",382,2015
+11,"Male","Asian",49,2015
+11,"Male","American Indian or Alaska Native",2,2015
+11,"Male","Native Hawaiian or other Pacific Islander",4,2015
+11,"Male","Two or more races",39,2015
+11,"Female","White",150,2015
+11,"Female","Black",2216,2015
+11,"Female","Hispanic",406,2015
+11,"Female","Asian",52,2015
+11,"Female","American Indian or Alaska Native",6,2015
+11,"Female","Native Hawaiian or other Pacific Islander",8,2015
+11,"Female","Two or more races",34,2015
+12,"Male","White",45538,2015
+12,"Male","Black",24472,2015
+12,"Male","Hispanic",32365,2015
+12,"Male","Asian",3985,2015
+12,"Male","American Indian or Alaska Native",594,2015
+12,"Male","Native Hawaiian or other Pacific Islander",223,2015
+12,"Male","Two or more races",3208,2015
+12,"Female","White",52547,2015
+12,"Female","Black",29102,2015
+12,"Female","Hispanic",39820,2015
+12,"Female","Asian",4360,2015
+12,"Female","American Indian or Alaska Native",638,2015
+12,"Female","Native Hawaiian or other Pacific Islander",341,2015
+12,"Female","Two or more races",3993,2015
+13,"Male","White",19523,2015
+13,"Male","Black",13652,2015
+13,"Male","Hispanic",3425,2015
+13,"Male","Asian",2989,2015
+13,"Male","American Indian or Alaska Native",96,2015
+13,"Male","Native Hawaiian or other Pacific Islander",46,2015
+13,"Male","Two or more races",1216,2015
+13,"Female","White",24049,2015
+13,"Female","Black",18782,2015
+13,"Female","Hispanic",4643,2015
+13,"Female","Asian",3212,2015
+13,"Female","American Indian or Alaska Native",139,2015
+13,"Female","Native Hawaiian or other Pacific Islander",71,2015
+13,"Female","Two or more races",1637,2015
+15,"Male","White",804,2015
+15,"Male","Black",138,2015
+15,"Male","Hispanic",372,2015
+15,"Male","Asian",2942,2015
+15,"Male","American Indian or Alaska Native",45,2015
+15,"Male","Native Hawaiian or other Pacific Islander",1763,2015
+15,"Male","Two or more races",536,2015
+15,"Female","White",854,2015
+15,"Female","Black",145,2015
+15,"Female","Hispanic",449,2015
+15,"Female","Asian",3101,2015
+15,"Female","American Indian or Alaska Native",50,2015
+15,"Female","Native Hawaiian or other Pacific Islander",1948,2015
+15,"Female","Two or more races",570,2015
+16,"Male","White",8503,2015
+16,"Male","Black",180,2015
+16,"Male","Hispanic",1311,2015
+16,"Male","Asian",223,2015
+16,"Male","American Indian or Alaska Native",140,2015
+16,"Male","Native Hawaiian or other Pacific Islander",55,2015
+16,"Male","Two or more races",219,2015
+16,"Female","White",8454,2015
+16,"Female","Black",150,2015
+16,"Female","Hispanic",1320,2015
+16,"Female","Asian",233,2015
+16,"Female","American Indian or Alaska Native",156,2015
+16,"Female","Native Hawaiian or other Pacific Islander",59,2015
+16,"Female","Two or more races",226,2015
+17,"Male","White",35152,2015
+17,"Male","Black",10678,2015
+17,"Male","Hispanic",15227,2015
+17,"Male","Asian",4372,2015
+17,"Male","American Indian or Alaska Native",243,2015
+17,"Male","Native Hawaiian or other Pacific Islander",89,2015
+17,"Male","Two or more races",1883,2015
+17,"Female","White",36000,2015
+17,"Female","Black",12265,2015
+17,"Female","Hispanic",16416,2015
+17,"Female","Asian",4422,2015
+17,"Female","American Indian or Alaska Native",220,2015
+17,"Female","Native Hawaiian or other Pacific Islander",92,2015
+17,"Female","Two or more races",1942,2015
+18,"Male","White",20244,2015
+18,"Male","Black",2709,2015
+18,"Male","Hispanic",1898,2015
+18,"Male","Asian",874,2015
+18,"Male","American Indian or Alaska Native",84,2015
+18,"Male","Native Hawaiian or other Pacific Islander",28,2015
+18,"Male","Two or more races",951,2015
+18,"Female","White",25068,2015
+18,"Female","Black",3697,2015
+18,"Female","Hispanic",2485,2015
+18,"Female","Asian",967,2015
+18,"Female","American Indian or Alaska Native",104,2015
+18,"Female","Native Hawaiian or other Pacific Islander",36,2015
+18,"Female","Two or more races",1233,2015
+19,"Male","White",10099,2015
+19,"Male","Black",451,2015
+19,"Male","Hispanic",744,2015
+19,"Male","Asian",397,2015
+19,"Male","American Indian or Alaska Native",8,2015
+19,"Male","Native Hawaiian or other Pacific Islander",20,2015
+19,"Male","Two or more races",331,2015
+19,"Female","White",12348,2015
+19,"Female","Black",554,2015
+19,"Female","Hispanic",1007,2015
+19,"Female","Asian",409,2015
+19,"Female","American Indian or Alaska Native",9,2015
+19,"Female","Native Hawaiian or other Pacific Islander",20,2015
+19,"Female","Two or more races",366,2015
+20,"Male","White",10989,2015
+20,"Male","Black",826,2015
+20,"Male","Hispanic",1687,2015
+20,"Male","Asian",599,2015
+20,"Male","American Indian or Alaska Native",166,2015
+20,"Male","Native Hawaiian or other Pacific Islander",26,2015
+20,"Male","Two or more races",581,2015
+20,"Female","White",12597,2015
+20,"Female","Black",1017,2015
+20,"Female","Hispanic",2087,2015
+20,"Female","Asian",698,2015
+20,"Female","American Indian or Alaska Native",217,2015
+20,"Female","Native Hawaiian or other Pacific Islander",24,2015
+20,"Female","Two or more races",658,2015
+21,"Male","White",29750,2015
+21,"Male","Black",3554,2015
+21,"Male","Hispanic",1434,2015
+21,"Male","Asian",602,2015
+21,"Male","American Indian or Alaska Native",68,2015
+21,"Male","Native Hawaiian or other Pacific Islander",46,2015
+21,"Male","Two or more races",783,2015
+21,"Female","White",32886,2015
+21,"Female","Black",3752,2015
+21,"Female","Hispanic",1513,2015
+21,"Female","Asian",769,2015
+21,"Female","American Indian or Alaska Native",73,2015
+21,"Female","Native Hawaiian or other Pacific Islander",42,2015
+21,"Female","Two or more races",957,2015
+22,"Male","White",12082,2015
+22,"Male","Black",9546,2015
+22,"Male","Hispanic",1276,2015
+22,"Male","Asian",625,2015
+22,"Male","American Indian or Alaska Native",266,2015
+22,"Male","Native Hawaiian or other Pacific Islander",32,2015
+22,"Male","Two or more races",203,2015
+22,"Female","White",13097,2015
+22,"Female","Black",11451,2015
+22,"Female","Hispanic",1314,2015
+22,"Female","Asian",553,2015
+22,"Female","American Indian or Alaska Native",242,2015
+22,"Female","Native Hawaiian or other Pacific Islander",28,2015
+22,"Female","Two or more races",252,2015
+23,"Male","White",6293,2015
+23,"Male","Black",281,2015
+23,"Male","Hispanic",136,2015
+23,"Male","Asian",127,2015
+23,"Male","American Indian or Alaska Native",57,2015
+23,"Male","Native Hawaiian or other Pacific Islander",13,2015
+23,"Male","Two or more races",89,2015
+23,"Female","White",5993,2015
+23,"Female","Black",252,2015
+23,"Female","Hispanic",152,2015
+23,"Female","Asian",176,2015
+23,"Female","American Indian or Alaska Native",54,2015
+23,"Female","Native Hawaiian or other Pacific Islander",8,2015
+23,"Female","Two or more races",88,2015
+24,"Male","White",16189,2015
+24,"Male","Black",9545,2015
+24,"Male","Hispanic",2508,2015
+24,"Male","Asian",2864,2015
+24,"Male","American Indian or Alaska Native",110,2015
+24,"Male","Native Hawaiian or other Pacific Islander",57,2015
+24,"Male","Two or more races",1063,2015
+24,"Female","White",17688,2015
+24,"Female","Black",12161,2015
+24,"Female","Hispanic",3111,2015
+24,"Female","Asian",3040,2015
+24,"Female","American Indian or Alaska Native",116,2015
+24,"Female","Native Hawaiian or other Pacific Islander",63,2015
+24,"Female","Two or more races",1269,2015
+25,"Male","White",20870,2015
+25,"Male","Black",2228,2015
+25,"Male","Hispanic",2375,2015
+25,"Male","Asian",2236,2015
+25,"Male","American Indian or Alaska Native",73,2015
+25,"Male","Native Hawaiian or other Pacific Islander",30,2015
+25,"Male","Two or more races",663,2015
+25,"Female","White",24722,2015
+25,"Female","Black",2831,2015
+25,"Female","Hispanic",3129,2015
+25,"Female","Asian",2495,2015
+25,"Female","American Indian or Alaska Native",84,2015
+25,"Female","Native Hawaiian or other Pacific Islander",42,2015
+25,"Female","Two or more races",843,2015
+26,"Male","White",39860,2015
+26,"Male","Black",7765,2015
+26,"Male","Hispanic",3448,2015
+26,"Male","Asian",2076,2015
+26,"Male","American Indian or Alaska Native",507,2015
+26,"Male","Native Hawaiian or other Pacific Islander",105,2015
+26,"Male","Two or more races",1446,2015
+26,"Female","White",39711,2015
+26,"Female","Black",8430,2015
+26,"Female","Hispanic",3437,2015
+26,"Female","Asian",2199,2015
+26,"Female","American Indian or Alaska Native",511,2015
+26,"Female","Native Hawaiian or other Pacific Islander",88,2015
+26,"Female","Two or more races",1500,2015
+27,"Male","White",25445,2015
+27,"Male","Black",3137,2015
+27,"Male","Hispanic",2154,2015
+27,"Male","Asian",2458,2015
+27,"Male","American Indian or Alaska Native",377,2015
+27,"Male","Native Hawaiian or other Pacific Islander",32,2015
+27,"Male","Two or more races",636,2015
+27,"Female","White",26355,2015
+27,"Female","Black",3125,2015
+27,"Female","Hispanic",2380,2015
+27,"Female","Asian",2814,2015
+27,"Female","American Indian or Alaska Native",374,2015
+27,"Female","Native Hawaiian or other Pacific Islander",34,2015
+27,"Female","Two or more races",716,2015
+28,"Male","White",10314,2015
+28,"Male","Black",8098,2015
+28,"Male","Hispanic",574,2015
+28,"Male","Asian",361,2015
+28,"Male","American Indian or Alaska Native",39,2015
+28,"Male","Native Hawaiian or other Pacific Islander",18,2015
+28,"Male","Two or more races",64,2015
+28,"Female","White",11412,2015
+28,"Female","Black",9568,2015
+28,"Female","Hispanic",560,2015
+28,"Female","Asian",370,2015
+28,"Female","American Indian or Alaska Native",53,2015
+28,"Female","Native Hawaiian or other Pacific Islander",12,2015
+28,"Female","Two or more races",91,2015
+29,"Male","White",29512,2015
+29,"Male","Black",5488,2015
+29,"Male","Hispanic",1809,2015
+29,"Male","Asian",937,2015
+29,"Male","American Indian or Alaska Native",217,2015
+29,"Male","Native Hawaiian or other Pacific Islander",100,2015
+29,"Male","Two or more races",783,2015
+29,"Female","White",30840,2015
+29,"Female","Black",6275,2015
+29,"Female","Hispanic",1931,2015
+29,"Female","Asian",1040,2015
+29,"Female","American Indian or Alaska Native",218,2015
+29,"Female","Native Hawaiian or other Pacific Islander",87,2015
+29,"Female","Two or more races",878,2015
+30,"Male","White",4422,2015
+30,"Male","Black",75,2015
+30,"Male","Hispanic",181,2015
+30,"Male","Asian",47,2015
+30,"Male","American Indian or Alaska Native",614,2015
+30,"Male","Native Hawaiian or other Pacific Islander",10,2015
+30,"Male","Two or more races",110,2015
+30,"Female","White",4365,2015
+30,"Female","Black",57,2015
+30,"Female","Hispanic",156,2015
+30,"Female","Asian",60,2015
+30,"Female","American Indian or Alaska Native",482,2015
+30,"Female","Native Hawaiian or other Pacific Islander",12,2015
+30,"Female","Two or more races",111,2015
+31,"Male","White",8551,2015
+31,"Male","Black",511,2015
+31,"Male","Hispanic",1472,2015
+31,"Male","Asian",345,2015
+31,"Male","American Indian or Alaska Native",94,2015
+31,"Male","Native Hawaiian or other Pacific Islander",14,2015
+31,"Male","Two or more races",294,2015
+31,"Female","White",9568,2015
+31,"Female","Black",568,2015
+31,"Female","Hispanic",1694,2015
+31,"Female","Asian",360,2015
+31,"Female","American Indian or Alaska Native",112,2015
+31,"Female","Native Hawaiian or other Pacific Islander",30,2015
+31,"Female","Two or more races",347,2015
+32,"Male","White",6913,2015
+32,"Male","Black",1830,2015
+32,"Male","Hispanic",6895,2015
+32,"Male","Asian",1292,2015
+32,"Male","American Indian or Alaska Native",222,2015
+32,"Male","Native Hawaiian or other Pacific Islander",280,2015
+32,"Male","Two or more races",950,2015
+32,"Female","White",6935,2015
+32,"Female","Black",1817,2015
+32,"Female","Hispanic",7347,2015
+32,"Female","Asian",1447,2015
+32,"Female","American Indian or Alaska Native",198,2015
+32,"Female","Native Hawaiian or other Pacific Islander",274,2015
+32,"Female","Two or more races",1044,2015
+33,"Male","White",6342,2015
+33,"Male","Black",119,2015
+33,"Male","Hispanic",204,2015
+33,"Male","Asian",201,2015
+33,"Male","American Indian or Alaska Native",26,2015
+33,"Male","Native Hawaiian or other Pacific Islander",6,2015
+33,"Male","Two or more races",95,2015
+33,"Female","White",6500,2015
+33,"Female","Black",136,2015
+33,"Female","Hispanic",213,2015
+33,"Female","Asian",214,2015
+33,"Female","American Indian or Alaska Native",22,2015
+33,"Female","Native Hawaiian or other Pacific Islander",6,2015
+33,"Female","Two or more races",106,2015
+34,"Male","White",27279,2015
+34,"Male","Black",6939,2015
+34,"Male","Hispanic",9176,2015
+34,"Male","Asian",6363,2015
+34,"Male","American Indian or Alaska Native",87,2015
+34,"Male","Native Hawaiian or other Pacific Islander",136,2015
+34,"Male","Two or more races",540,2015
+34,"Female","White",30386,2015
+34,"Female","Black",8730,2015
+34,"Female","Hispanic",11324,2015
+34,"Female","Asian",6656,2015
+34,"Female","American Indian or Alaska Native",102,2015
+34,"Female","Native Hawaiian or other Pacific Islander",148,2015
+34,"Female","Two or more races",702,2015
+35,"Male","White",4394,2015
+35,"Male","Black",410,2015
+35,"Male","Hispanic",10031,2015
+35,"Male","Asian",405,2015
+35,"Male","American Indian or Alaska Native",943,2015
+35,"Male","Native Hawaiian or other Pacific Islander",27,2015
+35,"Male","Two or more races",399,2015
+35,"Female","White",4550,2015
+35,"Female","Black",373,2015
+35,"Female","Hispanic",10460,2015
+35,"Female","Asian",424,2015
+35,"Female","American Indian or Alaska Native",1103,2015
+35,"Female","Native Hawaiian or other Pacific Islander",27,2015
+35,"Female","Two or more races",440,2015
+36,"Male","White",43678,2015
+36,"Male","Black",10959,2015
+36,"Male","Hispanic",12788,2015
+36,"Male","Asian",10133,2015
+36,"Male","American Indian or Alaska Native",428,2015
+36,"Male","Native Hawaiian or other Pacific Islander",255,2015
+36,"Male","Two or more races",1169,2015
+36,"Female","White",48870,2015
+36,"Female","Black",14063,2015
+36,"Female","Hispanic",15930,2015
+36,"Female","Asian",11231,2015
+36,"Female","American Indian or Alaska Native",445,2015
+36,"Female","Native Hawaiian or other Pacific Islander",265,2015
+36,"Female","Two or more races",1312,2015
+37,"Male","White",26777,2015
+37,"Male","Black",11689,2015
+37,"Male","Hispanic",5817,2015
+37,"Male","Asian",1513,2015
+37,"Male","American Indian or Alaska Native",683,2015
+37,"Male","Native Hawaiian or other Pacific Islander",100,2015
+37,"Male","Two or more races",1638,2015
+37,"Female","White",26650,2015
+37,"Female","Black",12754,2015
+37,"Female","Hispanic",6143,2015
+37,"Female","Asian",1706,2015
+37,"Female","American Indian or Alaska Native",718,2015
+37,"Female","Native Hawaiian or other Pacific Islander",103,2015
+37,"Female","Two or more races",1897,2015
+38,"Male","White",3340,2015
+38,"Male","Black",181,2015
+38,"Male","Hispanic",114,2015
+38,"Male","Asian",74,2015
+38,"Male","American Indian or Alaska Native",221,2015
+38,"Male","Native Hawaiian or other Pacific Islander",16,2015
+38,"Male","Two or more races",10,2015
+38,"Female","White",3554,2015
+38,"Female","Black",127,2015
+38,"Female","Hispanic",123,2015
+38,"Female","Asian",100,2015
+38,"Female","American Indian or Alaska Native",229,2015
+38,"Female","Native Hawaiian or other Pacific Islander",14,2015
+38,"Female","Two or more races",24,2015
+39,"Male","White",40662,2015
+39,"Male","Black",6603,2015
+39,"Male","Hispanic",1562,2015
+39,"Male","Asian",1698,2015
+39,"Male","American Indian or Alaska Native",84,2015
+39,"Male","Native Hawaiian or other Pacific Islander",46,2015
+39,"Male","Two or more races",1778,2015
+39,"Female","White",48799,2015
+39,"Female","Black",8571,2015
+39,"Female","Hispanic",1982,2015
+39,"Female","Asian",1998,2015
+39,"Female","American Indian or Alaska Native",106,2015
+39,"Female","Native Hawaiian or other Pacific Islander",78,2015
+39,"Female","Two or more races",2190,2015
+40,"Male","White",15214,2015
+40,"Male","Black",2459,2015
+40,"Male","Hispanic",3129,2015
+40,"Male","Asian",823,2015
+40,"Male","American Indian or Alaska Native",4344,2015
+40,"Male","Native Hawaiian or other Pacific Islander",86,2015
+40,"Male","Two or more races",1359,2015
+40,"Female","White",16268,2015
+40,"Female","Black",2631,2015
+40,"Female","Hispanic",3513,2015
+40,"Female","Asian",870,2015
+40,"Female","American Indian or Alaska Native",4834,2015
+40,"Female","Native Hawaiian or other Pacific Islander",80,2015
+40,"Female","Two or more races",1639,2015
+41,"Male","White",8037,2015
+41,"Male","Black",353,2015
+41,"Male","Hispanic",1627,2015
+41,"Male","Asian",813,2015
+41,"Male","American Indian or Alaska Native",157,2015
+41,"Male","Native Hawaiian or other Pacific Islander",100,2015
+41,"Male","Two or more races",639,2015
+41,"Female","White",9089,2015
+41,"Female","Black",339,2015
+41,"Female","Hispanic",2091,2015
+41,"Female","Asian",890,2015
+41,"Female","American Indian or Alaska Native",160,2015
+41,"Female","Native Hawaiian or other Pacific Islander",100,2015
+41,"Female","Two or more races",711,2015
+42,"Male","White",38842,2015
+42,"Male","Black",5997,2015
+42,"Male","Hispanic",2921,2015
+42,"Male","Asian",3038,2015
+42,"Male","American Indian or Alaska Native",89,2015
+42,"Male","Native Hawaiian or other Pacific Islander",34,2015
+42,"Male","Two or more races",963,2015
+42,"Female","White",46646,2015
+42,"Female","Black",7983,2015
+42,"Female","Hispanic",3938,2015
+42,"Female","Asian",3474,2015
+42,"Female","American Indian or Alaska Native",112,2015
+42,"Female","Native Hawaiian or other Pacific Islander",61,2015
+42,"Female","Two or more races",1072,2015
+44,"Male","White",1600,2015
+44,"Male","Black",206,2015
+44,"Male","Hispanic",318,2015
+44,"Male","Asian",109,2015
+44,"Male","American Indian or Alaska Native",10,2015
+44,"Male","Native Hawaiian or other Pacific Islander",2,2015
+44,"Male","Two or more races",78,2015
+44,"Female","White",1969,2015
+44,"Female","Black",270,2015
+44,"Female","Hispanic",465,2015
+44,"Female","Asian",110,2015
+44,"Female","American Indian or Alaska Native",24,2015
+44,"Female","Native Hawaiian or other Pacific Islander",2,2015
+44,"Female","Two or more races",115,2015
+45,"Male","White",17138,2015
+45,"Male","Black",9137,2015
+45,"Male","Hispanic",1769,2015
+45,"Male","Asian",633,2015
+45,"Male","American Indian or Alaska Native",118,2015
+45,"Male","Native Hawaiian or other Pacific Islander",68,2015
+45,"Male","Two or more races",732,2015
+45,"Female","White",18499,2015
+45,"Female","Black",10229,2015
+45,"Female","Hispanic",1760,2015
+45,"Female","Asian",637,2015
+45,"Female","American Indian or Alaska Native",127,2015
+45,"Female","Native Hawaiian or other Pacific Islander",75,2015
+45,"Female","Two or more races",848,2015
+46,"Male","White",3218,2015
+46,"Male","Black",105,2015
+46,"Male","Hispanic",124,2015
+46,"Male","Asian",64,2015
+46,"Male","American Indian or Alaska Native",254,2015
+46,"Male","Native Hawaiian or other Pacific Islander",2,2015
+46,"Male","Two or more races",76,2015
+46,"Female","White",3976,2015
+46,"Female","Black",97,2015
+46,"Female","Hispanic",125,2015
+46,"Female","Asian",88,2015
+46,"Female","American Indian or Alaska Native",276,2015
+46,"Female","Native Hawaiian or other Pacific Islander",9,2015
+46,"Female","Two or more races",99,2015
+47,"Male","White",26407,2015
+47,"Male","Black",9408,2015
+47,"Male","Hispanic",2559,2015
+47,"Male","Asian",952,2015
+47,"Male","American Indian or Alaska Native",108,2015
+47,"Male","Native Hawaiian or other Pacific Islander",62,2015
+47,"Male","Two or more races",535,2015
+47,"Female","White",27379,2015
+47,"Female","Black",10602,2015
+47,"Female","Hispanic",2495,2015
+47,"Female","Asian",1042,2015
+47,"Female","American Indian or Alaska Native",132,2015
+47,"Female","Native Hawaiian or other Pacific Islander",43,2015
+47,"Female","Two or more races",627,2015
+48,"Male","White",37186,2015
+48,"Male","Black",16295,2015
+48,"Male","Hispanic",53339,2015
+48,"Male","Asian",7961,2015
+48,"Male","American Indian or Alaska Native",735,2015
+48,"Male","Native Hawaiian or other Pacific Islander",238,2015
+48,"Male","Two or more races",2403,2015
+48,"Female","White",42411,2015
+48,"Female","Black",18474,2015
+48,"Female","Hispanic",62905,2015
+48,"Female","Asian",8136,2015
+48,"Female","American Indian or Alaska Native",687,2015
+48,"Female","Native Hawaiian or other Pacific Islander",234,2015
+48,"Female","Two or more races",2734,2015
+49,"Male","White",26263,2015
+49,"Male","Black",472,2015
+49,"Male","Hispanic",3998,2015
+49,"Male","Asian",764,2015
+49,"Male","American Indian or Alaska Native",389,2015
+49,"Male","Native Hawaiian or other Pacific Islander",532,2015
+49,"Male","Two or more races",672,2015
+49,"Female","White",26414,2015
+49,"Female","Black",452,2015
+49,"Female","Hispanic",4043,2015
+49,"Female","Asian",694,2015
+49,"Female","American Indian or Alaska Native",430,2015
+49,"Female","Native Hawaiian or other Pacific Islander",512,2015
+49,"Female","Two or more races",650,2015
+50,"Male","White",1916,2015
+50,"Male","Black",55,2015
+50,"Male","Hispanic",45,2015
+50,"Male","Asian",70,2015
+50,"Male","American Indian or Alaska Native",6,2015
+50,"Male","Native Hawaiian or other Pacific Islander",2,2015
+50,"Male","Two or more races",29,2015
+50,"Female","White",2273,2015
+50,"Female","Black",56,2015
+50,"Female","Hispanic",43,2015
+50,"Female","Asian",81,2015
+50,"Female","American Indian or Alaska Native",23,2015
+50,"Female","Native Hawaiian or other Pacific Islander",4,2015
+50,"Female","Two or more races",29,2015
+51,"Male","White",18749,2015
+51,"Male","Black",6319,2015
+51,"Male","Hispanic",2753,2015
+51,"Male","Asian",3595,2015
+51,"Male","American Indian or Alaska Native",113,2015
+51,"Male","Native Hawaiian or other Pacific Islander",77,2015
+51,"Male","Two or more races",1526,2015
+51,"Female","White",21741,2015
+51,"Female","Black",8235,2015
+51,"Female","Hispanic",3576,2015
+51,"Female","Asian",4004,2015
+51,"Female","American Indian or Alaska Native",157,2015
+51,"Female","Native Hawaiian or other Pacific Islander",100,2015
+51,"Female","Two or more races",1940,2015
+53,"Male","White",13459,2015
+53,"Male","Black",1547,2015
+53,"Male","Hispanic",3917,2015
+53,"Male","Asian",3331,2015
+53,"Male","American Indian or Alaska Native",286,2015
+53,"Male","Native Hawaiian or other Pacific Islander",321,2015
+53,"Male","Two or more races",1573,2015
+53,"Female","White",15486,2015
+53,"Female","Black",1728,2015
+53,"Female","Hispanic",4914,2015
+53,"Female","Asian",3523,2015
+53,"Female","American Indian or Alaska Native",318,2015
+53,"Female","Native Hawaiian or other Pacific Islander",309,2015
+53,"Female","Two or more races",1739,2015
+54,"Male","White",5515,2015
+54,"Male","Black",267,2015
+54,"Male","Hispanic",98,2015
+54,"Male","Asian",72,2015
+54,"Male","American Indian or Alaska Native",14,2015
+54,"Male","Native Hawaiian or other Pacific Islander",6,2015
+54,"Male","Two or more races",154,2015
+54,"Female","White",6997,2015
+54,"Female","Black",301,2015
+54,"Female","Hispanic",121,2015
+54,"Female","Asian",99,2015
+54,"Female","American Indian or Alaska Native",12,2015
+54,"Female","Native Hawaiian or other Pacific Islander",6,2015
+54,"Female","Two or more races",142,2015
+55,"Male","White",25776,2015
+55,"Male","Black",3409,2015
+55,"Male","Hispanic",3463,2015
+55,"Male","Asian",1491,2015
+55,"Male","American Indian or Alaska Native",412,2015
+55,"Male","Native Hawaiian or other Pacific Islander",44,2015
+55,"Male","Two or more races",737,2015
+55,"Female","White",25845,2015
+55,"Female","Black",3670,2015
+55,"Female","Hispanic",3509,2015
+55,"Female","Asian",1576,2015
+55,"Female","American Indian or Alaska Native",399,2015
+55,"Female","Native Hawaiian or other Pacific Islander",44,2015
+55,"Female","Two or more races",793,2015
+56,"Male","White",2538,2015
+56,"Male","Black",45,2015
+56,"Male","Hispanic",384,2015
+56,"Male","Asian",39,2015
+56,"Male","American Indian or Alaska Native",94,2015
+56,"Male","Native Hawaiian or other Pacific Islander",4,2015
+56,"Male","Two or more races",76,2015
+56,"Female","White",2492,2015
+56,"Female","Black",43,2015
+56,"Female","Hispanic",356,2015
+56,"Female","Asian",42,2015
+56,"Female","American Indian or Alaska Native",88,2015
+56,"Female","Native Hawaiian or other Pacific Islander",6,2015
+56,"Female","Two or more races",54,2015
+1,"Male","White",18197,2017
+1,"Male","Black",9046,2017
+1,"Male","Hispanic",1632,2017
+1,"Male","Asian",525,2017
+1,"Male","American Indian or Alaska Native",382,2017
+1,"Male","Native Hawaiian or other Pacific Islander",40,2017
+1,"Male","Two or more races",394,2017
+1,"Female","White",18682,2017
+1,"Female","Black",9691,2017
+1,"Female","Hispanic",1683,2017
+1,"Female","Asian",616,2017
+1,"Female","American Indian or Alaska Native",369,2017
+1,"Female","Native Hawaiian or other Pacific Islander",38,2017
+1,"Female","Two or more races",424,2017
+2,"Male","White",1310,2017
+2,"Male","Black",50,2017
+2,"Male","Hispanic",129,2017
+2,"Male","Asian",202,2017
+2,"Male","American Indian or Alaska Native",271,2017
+2,"Male","Native Hawaiian or other Pacific Islander",32,2017
+2,"Male","Two or more races",177,2017
+2,"Female","White",1564,2017
+2,"Female","Black",68,2017
+2,"Female","Hispanic",157,2017
+2,"Female","Asian",267,2017
+2,"Female","American Indian or Alaska Native",396,2017
+2,"Female","Native Hawaiian or other Pacific Islander",42,2017
+2,"Female","Two or more races",209,2017
+4,"Male","White",12894,2017
+4,"Male","Black",1610,2017
+4,"Male","Hispanic",11398,2017
+4,"Male","Asian",1353,2017
+4,"Male","American Indian or Alaska Native",724,2017
+4,"Male","Native Hawaiian or other Pacific Islander",101,2017
+4,"Male","Two or more races",724,2017
+4,"Female","White",14018,2017
+4,"Female","Black",1674,2017
+4,"Female","Hispanic",13070,2017
+4,"Female","Asian",1516,2017
+4,"Female","American Indian or Alaska Native",974,2017
+4,"Female","Native Hawaiian or other Pacific Islander",88,2017
+4,"Female","Two or more races",828,2017
+5,"Male","White",15366,2017
+5,"Male","Black",3765,2017
+5,"Male","Hispanic",2158,2017
+5,"Male","Asian",465,2017
+5,"Male","American Indian or Alaska Native",133,2017
+5,"Male","Native Hawaiian or other Pacific Islander",58,2017
+5,"Male","Two or more races",402,2017
+5,"Female","White",16558,2017
+5,"Female","Black",4253,2017
+5,"Female","Hispanic",2355,2017
+5,"Female","Asian",483,2017
+5,"Female","American Indian or Alaska Native",139,2017
+5,"Female","Native Hawaiian or other Pacific Islander",69,2017
+5,"Female","Two or more races",440,2017
+6,"Male","White",36887,2017
+6,"Male","Black",8209,2017
+6,"Male","Hispanic",70316,2017
+6,"Male","Asian",31554,2017
+6,"Male","American Indian or Alaska Native",558,2017
+6,"Male","Native Hawaiian or other Pacific Islander",992,2017
+6,"Male","Two or more races",4869,2017
+6,"Female","White",43418,2017
+6,"Female","Black",10658,2017
+6,"Female","Hispanic",93768,2017
+6,"Female","Asian",34246,2017
+6,"Female","American Indian or Alaska Native",696,2017
+6,"Female","Native Hawaiian or other Pacific Islander",1180,2017
+6,"Female","Two or more races",6048,2017
+8,"Male","White",18496,2017
+8,"Male","Black",1480,2017
+8,"Male","Hispanic",9933,2017
+8,"Male","Asian",1168,2017
+8,"Male","American Indian or Alaska Native",232,2017
+8,"Male","Native Hawaiian or other Pacific Islander",80,2017
+8,"Male","Two or more races",1177,2017
+8,"Female","White",18580,2017
+8,"Female","Black",1446,2017
+8,"Female","Hispanic",10135,2017
+8,"Female","Asian",1323,2017
+8,"Female","American Indian or Alaska Native",225,2017
+8,"Female","Native Hawaiian or other Pacific Islander",87,2017
+8,"Female","Two or more races",1316,2017
+9,"Male","White",14476,2017
+9,"Male","Black",2667,2017
+9,"Male","Hispanic",4285,2017
+9,"Male","Asian",1250,2017
+9,"Male","American Indian or Alaska Native",60,2017
+9,"Male","Native Hawaiian or other Pacific Islander",20,2017
+9,"Male","Two or more races",527,2017
+9,"Female","White",14626,2017
+9,"Female","Black",2851,2017
+9,"Female","Hispanic",4581,2017
+9,"Female","Asian",1372,2017
+9,"Female","American Indian or Alaska Native",63,2017
+9,"Female","Native Hawaiian or other Pacific Islander",29,2017
+9,"Female","Two or more races",554,2017
+10,"Male","White",2393,2017
+10,"Male","Black",1443,2017
+10,"Male","Hispanic",703,2017
+10,"Male","Asian",223,2017
+10,"Male","American Indian or Alaska Native",23,2017
+10,"Male","Native Hawaiian or other Pacific Islander",5,2017
+10,"Male","Two or more races",112,2017
+10,"Female","White",2247,2017
+10,"Female","Black",1628,2017
+10,"Female","Hispanic",723,2017
+10,"Female","Asian",173,2017
+10,"Female","American Indian or Alaska Native",23,2017
+10,"Female","Native Hawaiian or other Pacific Islander",3,2017
+10,"Female","Two or more races",139,2017
+11,"Male","White",201,2017
+11,"Male","Black",2061,2017
+11,"Male","Hispanic",565,2017
+11,"Male","Asian",52,2017
+11,"Male","American Indian or Alaska Native",4,2017
+11,"Male","Native Hawaiian or other Pacific Islander",2,2017
+11,"Male","Two or more races",24,2017
+11,"Female","White",185,2017
+11,"Female","Black",2326,2017
+11,"Female","Hispanic",560,2017
+11,"Female","Asian",68,2017
+11,"Female","American Indian or Alaska Native",5,2017
+11,"Female","Native Hawaiian or other Pacific Islander",1,2017
+11,"Female","Two or more races",44,2017
+12,"Male","White",47743,2017
+12,"Male","Black",28554,2017
+12,"Male","Hispanic",39590,2017
+12,"Male","Asian",4641,2017
+12,"Male","American Indian or Alaska Native",475,2017
+12,"Male","Native Hawaiian or other Pacific Islander",168,2017
+12,"Male","Two or more races",3589,2017
+12,"Female","White",54614,2017
+12,"Female","Black",33661,2017
+12,"Female","Hispanic",45629,2017
+12,"Female","Asian",5141,2017
+12,"Female","American Indian or Alaska Native",494,2017
+12,"Female","Native Hawaiian or other Pacific Islander",196,2017
+12,"Female","Two or more races",4312,2017
+13,"Male","White",20495,2017
+13,"Male","Black",15294,2017
+13,"Male","Hispanic",4250,2017
+13,"Male","Asian",3565,2017
+13,"Male","American Indian or Alaska Native",83,2017
+13,"Male","Native Hawaiian or other Pacific Islander",32,2017
+13,"Male","Two or more races",1454,2017
+13,"Female","White",25431,2017
+13,"Female","Black",20963,2017
+13,"Female","Hispanic",6305,2017
+13,"Female","Asian",3965,2017
+13,"Female","American Indian or Alaska Native",100,2017
+13,"Female","Native Hawaiian or other Pacific Islander",36,2017
+13,"Female","Two or more races",1951,2017
+15,"Male","White",532,2017
+15,"Male","Black",90,2017
+15,"Male","Hispanic",809,2017
+15,"Male","Asian",2192,2017
+15,"Male","American Indian or Alaska Native",7,2017
+15,"Male","Native Hawaiian or other Pacific Islander",738,2017
+15,"Male","Two or more races",1535,2017
+15,"Female","White",586,2017
+15,"Female","Black",100,2017
+15,"Female","Hispanic",1120,2017
+15,"Female","Asian",2632,2017
+15,"Female","American Indian or Alaska Native",5,2017
+15,"Female","Native Hawaiian or other Pacific Islander",811,2017
+15,"Female","Two or more races",1719,2017
+16,"Male","White",9797,2017
+16,"Male","Black",142,2017
+16,"Male","Hispanic",1698,2017
+16,"Male","Asian",222,2017
+16,"Male","American Indian or Alaska Native",141,2017
+16,"Male","Native Hawaiian or other Pacific Islander",80,2017
+16,"Male","Two or more races",317,2017
+16,"Female","White",9919,2017
+16,"Female","Black",118,2017
+16,"Female","Hispanic",1869,2017
+16,"Female","Asian",300,2017
+16,"Female","American Indian or Alaska Native",130,2017
+16,"Female","Native Hawaiian or other Pacific Islander",60,2017
+16,"Female","Two or more races",276,2017
+17,"Male","White",43639,2017
+17,"Male","Black",12710,2017
+17,"Male","Hispanic",20729,2017
+17,"Male","Asian",5406,2017
+17,"Male","American Indian or Alaska Native",205,2017
+17,"Male","Native Hawaiian or other Pacific Islander",84,2017
+17,"Male","Two or more races",2418,2017
+17,"Female","White",43695,2017
+17,"Female","Black",13771,2017
+17,"Female","Hispanic",21082,2017
+17,"Female","Asian",5438,2017
+17,"Female","American Indian or Alaska Native",222,2017
+17,"Female","Native Hawaiian or other Pacific Islander",82,2017
+17,"Female","Two or more races",2509,2017
+18,"Male","White",20010,2017
+18,"Male","Black",2383,2017
+18,"Male","Hispanic",2184,2017
+18,"Male","Asian",1007,2017
+18,"Male","American Indian or Alaska Native",75,2017
+18,"Male","Native Hawaiian or other Pacific Islander",19,2017
+18,"Male","Two or more races",964,2017
+18,"Female","White",24973,2017
+18,"Female","Black",3202,2017
+18,"Female","Hispanic",3006,2017
+18,"Female","Asian",1253,2017
+18,"Female","American Indian or Alaska Native",56,2017
+18,"Female","Native Hawaiian or other Pacific Islander",16,2017
+18,"Female","Two or more races",1310,2017
+19,"Male","White",11236,2017
+19,"Male","Black",510,2017
+19,"Male","Hispanic",953,2017
+19,"Male","Asian",555,2017
+19,"Male","American Indian or Alaska Native",29,2017
+19,"Male","Native Hawaiian or other Pacific Islander",19,2017
+19,"Male","Two or more races",362,2017
+19,"Female","White",13952,2017
+19,"Female","Black",631,2017
+19,"Female","Hispanic",1189,2017
+19,"Female","Asian",660,2017
+19,"Female","American Indian or Alaska Native",42,2017
+19,"Female","Native Hawaiian or other Pacific Islander",13,2017
+19,"Female","Two or more races",456,2017
+20,"Male","White",9039,2017
+20,"Male","Black",672,2017
+20,"Male","Hispanic",1607,2017
+20,"Male","Asian",558,2017
+20,"Male","American Indian or Alaska Native",87,2017
+20,"Male","Native Hawaiian or other Pacific Islander",12,2017
+20,"Male","Two or more races",518,2017
+20,"Female","White",10320,2017
+20,"Female","Black",780,2017
+20,"Female","Hispanic",2044,2017
+20,"Female","Asian",628,2017
+20,"Female","American Indian or Alaska Native",108,2017
+20,"Female","Native Hawaiian or other Pacific Islander",22,2017
+20,"Female","Two or more races",644,2017
+21,"Male","White",27780,2017
+21,"Male","Black",3353,2017
+21,"Male","Hispanic",1760,2017
+21,"Male","Asian",765,2017
+21,"Male","American Indian or Alaska Native",44,2017
+21,"Male","Native Hawaiian or other Pacific Islander",36,2017
+21,"Male","Two or more races",825,2017
+21,"Female","White",31130,2017
+21,"Female","Black",3691,2017
+21,"Female","Hispanic",1788,2017
+21,"Female","Asian",895,2017
+21,"Female","American Indian or Alaska Native",43,2017
+21,"Female","Native Hawaiian or other Pacific Islander",41,2017
+21,"Female","Two or more races",995,2017
+22,"Male","White",13774,2017
+22,"Male","Black",10223,2017
+22,"Male","Hispanic",1654,2017
+22,"Male","Asian",619,2017
+22,"Male","American Indian or Alaska Native",405,2017
+22,"Male","Native Hawaiian or other Pacific Islander",10,2017
+22,"Male","Two or more races",335,2017
+22,"Female","White",14996,2017
+22,"Female","Black",12234,2017
+22,"Female","Hispanic",1696,2017
+22,"Female","Asian",686,2017
+22,"Female","American Indian or Alaska Native",386,2017
+22,"Female","Native Hawaiian or other Pacific Islander",14,2017
+22,"Female","Two or more races",401,2017
+23,"Male","White",5582,2017
+23,"Male","Black",192,2017
+23,"Male","Hispanic",118,2017
+23,"Male","Asian",121,2017
+23,"Male","American Indian or Alaska Native",57,2017
+23,"Male","Native Hawaiian or other Pacific Islander",9,2017
+23,"Male","Two or more races",112,2017
+23,"Female","White",5561,2017
+23,"Female","Black",259,2017
+23,"Female","Hispanic",116,2017
+23,"Female","Asian",144,2017
+23,"Female","American Indian or Alaska Native",55,2017
+23,"Female","Native Hawaiian or other Pacific Islander",6,2017
+23,"Female","Two or more races",113,2017
+24,"Male","White",15838,2017
+24,"Male","Black",10534,2017
+24,"Male","Hispanic",3994,2017
+24,"Male","Asian",3136,2017
+24,"Male","American Indian or Alaska Native",84,2017
+24,"Male","Native Hawaiian or other Pacific Islander",29,2017
+24,"Male","Two or more races",1426,2017
+24,"Female","White",16733,2017
+24,"Female","Black",12709,2017
+24,"Female","Hispanic",4438,2017
+24,"Female","Asian",3231,2017
+24,"Female","American Indian or Alaska Native",98,2017
+24,"Female","Native Hawaiian or other Pacific Islander",50,2017
+24,"Female","Two or more races",1602,2017
+25,"Male","White",21457,2017
+25,"Male","Black",2529,2017
+25,"Male","Hispanic",3814,2017
+25,"Male","Asian",2869,2017
+25,"Male","American Indian or Alaska Native",58,2017
+25,"Male","Native Hawaiian or other Pacific Islander",21,2017
+25,"Male","Two or more races",948,2017
+25,"Female","White",25253,2017
+25,"Female","Black",3377,2017
+25,"Female","Hispanic",4798,2017
+25,"Female","Asian",3313,2017
+25,"Female","American Indian or Alaska Native",67,2017
+25,"Female","Native Hawaiian or other Pacific Islander",36,2017
+25,"Female","Two or more races",1114,2017
+26,"Male","White",37681,2017
+26,"Male","Black",7333,2017
+26,"Male","Hispanic",3845,2017
+26,"Male","Asian",2050,2017
+26,"Male","American Indian or Alaska Native",398,2017
+26,"Male","Native Hawaiian or other Pacific Islander",36,2017
+26,"Male","Two or more races",1418,2017
+26,"Female","White",37715,2017
+26,"Female","Black",8006,2017
+26,"Female","Hispanic",3909,2017
+26,"Female","Asian",2049,2017
+26,"Female","American Indian or Alaska Native",408,2017
+26,"Female","Native Hawaiian or other Pacific Islander",41,2017
+26,"Female","Two or more races",1462,2017
+27,"Male","White",23426,2017
+27,"Male","Black",3285,2017
+27,"Male","Hispanic",2353,2017
+27,"Male","Asian",2905,2017
+27,"Male","American Indian or Alaska Native",316,2017
+27,"Male","Native Hawaiian or other Pacific Islander",17,2017
+27,"Male","Two or more races",815,2017
+27,"Female","White",24955,2017
+27,"Female","Black",3437,2017
+27,"Female","Hispanic",2511,2017
+27,"Female","Asian",3068,2017
+27,"Female","American Indian or Alaska Native",335,2017
+27,"Female","Native Hawaiian or other Pacific Islander",23,2017
+27,"Female","Two or more races",881,2017
+28,"Male","White",10901,2017
+28,"Male","Black",10062,2017
+28,"Male","Hispanic",695,2017
+28,"Male","Asian",374,2017
+28,"Male","American Indian or Alaska Native",31,2017
+28,"Male","Native Hawaiian or other Pacific Islander",10,2017
+28,"Male","Two or more races",93,2017
+28,"Female","White",11828,2017
+28,"Female","Black",11636,2017
+28,"Female","Hispanic",699,2017
+28,"Female","Asian",365,2017
+28,"Female","American Indian or Alaska Native",64,2017
+28,"Female","Native Hawaiian or other Pacific Islander",12,2017
+28,"Female","Two or more races",96,2017
+29,"Male","White",23578,2017
+29,"Male","Black",4822,2017
+29,"Male","Hispanic",1432,2017
+29,"Male","Asian",910,2017
+29,"Male","American Indian or Alaska Native",95,2017
+29,"Male","Native Hawaiian or other Pacific Islander",56,2017
+29,"Male","Two or more races",761,2017
+29,"Female","White",27289,2017
+29,"Female","Black",5601,2017
+29,"Female","Hispanic",1723,2017
+29,"Female","Asian",970,2017
+29,"Female","American Indian or Alaska Native",138,2017
+29,"Female","Native Hawaiian or other Pacific Islander",57,2017
+29,"Female","Two or more races",857,2017
+30,"Male","White",4209,2017
+30,"Male","Black",59,2017
+30,"Male","Hispanic",180,2017
+30,"Male","Asian",45,2017
+30,"Male","American Indian or Alaska Native",422,2017
+30,"Male","Native Hawaiian or other Pacific Islander",8,2017
+30,"Male","Two or more races",123,2017
+30,"Female","White",4242,2017
+30,"Female","Black",44,2017
+30,"Female","Hispanic",172,2017
+30,"Female","Asian",51,2017
+30,"Female","American Indian or Alaska Native",375,2017
+30,"Female","Native Hawaiian or other Pacific Islander",13,2017
+30,"Female","Two or more races",117,2017
+31,"Male","White",10155,2017
+31,"Male","Black",945,2017
+31,"Male","Hispanic",2413,2017
+31,"Male","Asian",422,2017
+31,"Male","American Indian or Alaska Native",193,2017
+31,"Male","Native Hawaiian or other Pacific Islander",20,2017
+31,"Male","Two or more races",428,2017
+31,"Female","White",10407,2017
+31,"Female","Black",927,2017
+31,"Female","Hispanic",2450,2017
+31,"Female","Asian",411,2017
+31,"Female","American Indian or Alaska Native",146,2017
+31,"Female","Native Hawaiian or other Pacific Islander",9,2017
+31,"Female","Two or more races",390,2017
+32,"Male","White",7185,2017
+32,"Male","Black",2105,2017
+32,"Male","Hispanic",8155,2017
+32,"Male","Asian",1708,2017
+32,"Male","American Indian or Alaska Native",156,2017
+32,"Male","Native Hawaiian or other Pacific Islander",296,2017
+32,"Male","Two or more races",1116,2017
+32,"Female","White",7296,2017
+32,"Female","Black",2197,2017
+32,"Female","Hispanic",8532,2017
+32,"Female","Asian",1672,2017
+32,"Female","American Indian or Alaska Native",181,2017
+32,"Female","Native Hawaiian or other Pacific Islander",270,2017
+32,"Female","Two or more races",1236,2017
+33,"Male","White",6070,2017
+33,"Male","Black",116,2017
+33,"Male","Hispanic",184,2017
+33,"Male","Asian",185,2017
+33,"Male","American Indian or Alaska Native",15,2017
+33,"Male","Native Hawaiian or other Pacific Islander",7,2017
+33,"Male","Two or more races",124,2017
+33,"Female","White",6046,2017
+33,"Female","Black",124,2017
+33,"Female","Hispanic",217,2017
+33,"Female","Asian",245,2017
+33,"Female","American Indian or Alaska Native",13,2017
+33,"Female","Native Hawaiian or other Pacific Islander",7,2017
+33,"Female","Two or more races",104,2017
+34,"Male","White",27856,2017
+34,"Male","Black",6892,2017
+34,"Male","Hispanic",10242,2017
+34,"Male","Asian",8090,2017
+34,"Male","American Indian or Alaska Native",54,2017
+34,"Male","Native Hawaiian or other Pacific Islander",110,2017
+34,"Male","Two or more races",698,2017
+34,"Female","White",31432,2017
+34,"Female","Black",8390,2017
+34,"Female","Hispanic",12420,2017
+34,"Female","Asian",8205,2017
+34,"Female","American Indian or Alaska Native",63,2017
+34,"Female","Native Hawaiian or other Pacific Islander",121,2017
+34,"Female","Two or more races",841,2017
+35,"Male","White",3906,2017
+35,"Male","Black",382,2017
+35,"Male","Hispanic",10160,2017
+35,"Male","Asian",405,2017
+35,"Male","American Indian or Alaska Native",1108,2017
+35,"Male","Native Hawaiian or other Pacific Islander",27,2017
+35,"Male","Two or more races",390,2017
+35,"Female","White",4092,2017
+35,"Female","Black",399,2017
+35,"Female","Hispanic",11381,2017
+35,"Female","Asian",390,2017
+35,"Female","American Indian or Alaska Native",1347,2017
+35,"Female","Native Hawaiian or other Pacific Islander",16,2017
+35,"Female","Two or more races",348,2017
+36,"Male","White",42843,2017
+36,"Male","Black",14891,2017
+36,"Male","Hispanic",20252,2017
+36,"Male","Asian",14401,2017
+36,"Male","American Indian or Alaska Native",484,2017
+36,"Male","Native Hawaiian or other Pacific Islander",341,2017
+36,"Male","Two or more races",1550,2017
+36,"Female","White",49599,2017
+36,"Female","Black",18658,2017
+36,"Female","Hispanic",24628,2017
+36,"Female","Asian",14871,2017
+36,"Female","American Indian or Alaska Native",613,2017
+36,"Female","Native Hawaiian or other Pacific Islander",356,2017
+36,"Female","Two or more races",1866,2017
+37,"Male","White",27475,2017
+37,"Male","Black",12056,2017
+37,"Male","Hispanic",7561,2017
+37,"Male","Asian",1663,2017
+37,"Male","American Indian or Alaska Native",554,2017
+37,"Male","Native Hawaiian or other Pacific Islander",45,2017
+37,"Male","Two or more races",1936,2017
+37,"Female","White",27240,2017
+37,"Female","Black",13065,2017
+37,"Female","Hispanic",7791,2017
+37,"Female","Asian",1615,2017
+37,"Female","American Indian or Alaska Native",618,2017
+37,"Female","Native Hawaiian or other Pacific Islander",58,2017
+37,"Female","Two or more races",2016,2017
+38,"Male","White",2771,2017
+38,"Male","Black",162,2017
+38,"Male","Hispanic",125,2017
+38,"Male","Asian",78,2017
+38,"Male","American Indian or Alaska Native",256,2017
+38,"Male","Native Hawaiian or other Pacific Islander",11,2017
+38,"Male","Two or more races",12,2017
+38,"Female","White",2810,2017
+38,"Female","Black",201,2017
+38,"Female","Hispanic",130,2017
+38,"Female","Asian",80,2017
+38,"Female","American Indian or Alaska Native",229,2017
+38,"Female","Native Hawaiian or other Pacific Islander",10,2017
+38,"Female","Two or more races",13,2017
+39,"Male","White",62144,2017
+39,"Male","Black",11511,2017
+39,"Male","Hispanic",3461,2017
+39,"Male","Asian",2309,2017
+39,"Male","American Indian or Alaska Native",85,2017
+39,"Male","Native Hawaiian or other Pacific Islander",48,2017
+39,"Male","Two or more races",3259,2017
+39,"Female","White",65072,2017
+39,"Female","Black",12839,2017
+39,"Female","Hispanic",3756,2017
+39,"Female","Asian",2525,2017
+39,"Female","American Indian or Alaska Native",119,2017
+39,"Female","Native Hawaiian or other Pacific Islander",58,2017
+39,"Female","Two or more races",3603,2017
+40,"Male","White",12650,2017
+40,"Male","Black",2244,2017
+40,"Male","Hispanic",3679,2017
+40,"Male","Asian",757,2017
+40,"Male","American Indian or Alaska Native",3279,2017
+40,"Male","Native Hawaiian or other Pacific Islander",53,2017
+40,"Male","Two or more races",1748,2017
+40,"Female","White",12867,2017
+40,"Female","Black",2297,2017
+40,"Female","Hispanic",3826,2017
+40,"Female","Asian",785,2017
+40,"Female","American Indian or Alaska Native",3384,2017
+40,"Female","Native Hawaiian or other Pacific Islander",68,2017
+40,"Female","Two or more races",1938,2017
+41,"Male","White",8122,2017
+41,"Male","Black",293,2017
+41,"Male","Hispanic",2497,2017
+41,"Male","Asian",911,2017
+41,"Male","American Indian or Alaska Native",183,2017
+41,"Male","Native Hawaiian or other Pacific Islander",83,2017
+41,"Male","Two or more races",795,2017
+41,"Female","White",9402,2017
+41,"Female","Black",304,2017
+41,"Female","Hispanic",3047,2017
+41,"Female","Asian",1052,2017
+41,"Female","American Indian or Alaska Native",231,2017
+41,"Female","Native Hawaiian or other Pacific Islander",113,2017
+41,"Female","Two or more races",881,2017
+42,"Male","White",38783,2017
+42,"Male","Black",6574,2017
+42,"Male","Hispanic",3271,2017
+42,"Male","Asian",3335,2017
+42,"Male","American Indian or Alaska Native",46,2017
+42,"Male","Native Hawaiian or other Pacific Islander",36,2017
+42,"Male","Two or more races",1135,2017
+42,"Female","White",46798,2017
+42,"Female","Black",8502,2017
+42,"Female","Hispanic",4809,2017
+42,"Female","Asian",3920,2017
+42,"Female","American Indian or Alaska Native",84,2017
+42,"Female","Native Hawaiian or other Pacific Islander",46,2017
+42,"Female","Two or more races",1458,2017
+44,"Male","White",3430,2017
+44,"Male","Black",498,2017
+44,"Male","Hispanic",1466,2017
+44,"Male","Asian",205,2017
+44,"Male","American Indian or Alaska Native",32,2017
+44,"Male","Native Hawaiian or other Pacific Islander",8,2017
+44,"Male","Two or more races",199,2017
+44,"Female","White",3532,2017
+44,"Female","Black",618,2017
+44,"Female","Hispanic",1572,2017
+44,"Female","Asian",199,2017
+44,"Female","American Indian or Alaska Native",33,2017
+44,"Female","Native Hawaiian or other Pacific Islander",6,2017
+44,"Female","Two or more races",204,2017
+45,"Male","White",15305,2017
+45,"Male","Black",7537,2017
+45,"Male","Hispanic",1655,2017
+45,"Male","Asian",646,2017
+45,"Male","American Indian or Alaska Native",84,2017
+45,"Male","Native Hawaiian or other Pacific Islander",31,2017
+45,"Male","Two or more races",854,2017
+45,"Female","White",16667,2017
+45,"Female","Black",8746,2017
+45,"Female","Hispanic",1969,2017
+45,"Female","Asian",721,2017
+45,"Female","American Indian or Alaska Native",70,2017
+45,"Female","Native Hawaiian or other Pacific Islander",33,2017
+45,"Female","Two or more races",936,2017
+46,"Male","White",2860,2017
+46,"Male","Black",73,2017
+46,"Male","Hispanic",108,2017
+46,"Male","Asian",54,2017
+46,"Male","American Indian or Alaska Native",199,2017
+46,"Male","Native Hawaiian or other Pacific Islander",4,2017
+46,"Male","Two or more races",79,2017
+46,"Female","White",3550,2017
+46,"Female","Black",110,2017
+46,"Female","Hispanic",142,2017
+46,"Female","Asian",77,2017
+46,"Female","American Indian or Alaska Native",258,2017
+46,"Female","Native Hawaiian or other Pacific Islander",4,2017
+46,"Female","Two or more races",80,2017
+47,"Male","White",35977,2017
+47,"Male","Black",11930,2017
+47,"Male","Hispanic",4440,2017
+47,"Male","Asian",1165,2017
+47,"Male","American Indian or Alaska Native",104,2017
+47,"Male","Native Hawaiian or other Pacific Islander",58,2017
+47,"Male","Two or more races",1147,2017
+47,"Female","White",35463,2017
+47,"Female","Black",13127,2017
+47,"Female","Hispanic",4448,2017
+47,"Female","Asian",1395,2017
+47,"Female","American Indian or Alaska Native",141,2017
+47,"Female","Native Hawaiian or other Pacific Islander",55,2017
+47,"Female","Two or more races",1027,2017
+48,"Male","White",45119,2017
+48,"Male","Black",19515,2017
+48,"Male","Hispanic",70662,2017
+48,"Male","Asian",10307,2017
+48,"Male","American Indian or Alaska Native",578,2017
+48,"Male","Native Hawaiian or other Pacific Islander",222,2017
+48,"Male","Two or more races",3116,2017
+48,"Female","White",51021,2017
+48,"Female","Black",22602,2017
+48,"Female","Hispanic",83468,2017
+48,"Female","Asian",10796,2017
+48,"Female","American Indian or Alaska Native",665,2017
+48,"Female","Native Hawaiian or other Pacific Islander",202,2017
+48,"Female","Two or more races",3694,2017
+49,"Male","White",22017,2017
+49,"Male","Black",387,2017
+49,"Male","Hispanic",3654,2017
+49,"Male","Asian",557,2017
+49,"Male","American Indian or Alaska Native",262,2017
+49,"Male","Native Hawaiian or other Pacific Islander",420,2017
+49,"Male","Two or more races",643,2017
+49,"Female","White",22407,2017
+49,"Female","Black",378,2017
+49,"Female","Hispanic",3965,2017
+49,"Female","Asian",658,2017
+49,"Female","American Indian or Alaska Native",280,2017
+49,"Female","Native Hawaiian or other Pacific Islander",402,2017
+49,"Female","Two or more races",683,2017
+50,"Male","White",2081,2017
+50,"Male","Black",50,2017
+50,"Male","Hispanic",48,2017
+50,"Male","Asian",45,2017
+50,"Male","American Indian or Alaska Native",8,2017
+50,"Male","Native Hawaiian or other Pacific Islander",1,2017
+50,"Male","Two or more races",23,2017
+50,"Female","White",2426,2017
+50,"Female","Black",56,2017
+50,"Female","Hispanic",36,2017
+50,"Female","Asian",63,2017
+50,"Female","American Indian or Alaska Native",7,2017
+50,"Female","Native Hawaiian or other Pacific Islander",0,2017
+50,"Female","Two or more races",27,2017
+51,"Male","White",20150,2017
+51,"Male","Black",6877,2017
+51,"Male","Hispanic",3181,2017
+51,"Male","Asian",4271,2017
+51,"Male","American Indian or Alaska Native",82,2017
+51,"Male","Native Hawaiian or other Pacific Islander",52,2017
+51,"Male","Two or more races",1758,2017
+51,"Female","White",23862,2017
+51,"Female","Black",9040,2017
+51,"Female","Hispanic",4045,2017
+51,"Female","Asian",4686,2017
+51,"Female","American Indian or Alaska Native",101,2017
+51,"Female","Native Hawaiian or other Pacific Islander",64,2017
+51,"Female","Two or more races",2145,2017
+53,"Male","White",14860,2017
+53,"Male","Black",1948,2017
+53,"Male","Hispanic",4719,2017
+53,"Male","Asian",3792,2017
+53,"Male","American Indian or Alaska Native",221,2017
+53,"Male","Native Hawaiian or other Pacific Islander",396,2017
+53,"Male","Two or more races",2003,2017
+53,"Female","White",16983,2017
+53,"Female","Black",2200,2017
+53,"Female","Hispanic",5788,2017
+53,"Female","Asian",4208,2017
+53,"Female","American Indian or Alaska Native",248,2017
+53,"Female","Native Hawaiian or other Pacific Islander",470,2017
+53,"Female","Two or more races",2324,2017
+54,"Male","White",9048,2017
+54,"Male","Black",476,2017
+54,"Male","Hispanic",160,2017
+54,"Male","Asian",91,2017
+54,"Male","American Indian or Alaska Native",18,2017
+54,"Male","Native Hawaiian or other Pacific Islander",1,2017
+54,"Male","Two or more races",197,2017
+54,"Female","White",9747,2017
+54,"Female","Black",498,2017
+54,"Female","Hispanic",169,2017
+54,"Female","Asian",104,2017
+54,"Female","American Indian or Alaska Native",11,2017
+54,"Female","Native Hawaiian or other Pacific Islander",4,2017
+54,"Female","Two or more races",230,2017
+55,"Male","White",24740,2017
+55,"Male","Black",2327,2017
+55,"Male","Hispanic",3199,2017
+55,"Male","Asian",1240,2017
+55,"Male","American Indian or Alaska Native",347,2017
+55,"Male","Native Hawaiian or other Pacific Islander",24,2017
+55,"Male","Two or more races",783,2017
+55,"Female","White",23951,2017
+55,"Female","Black",2521,2017
+55,"Female","Hispanic",3237,2017
+55,"Female","Asian",1311,2017
+55,"Female","American Indian or Alaska Native",346,2017
+55,"Female","Native Hawaiian or other Pacific Islander",25,2017
+55,"Female","Two or more races",827,2017
+56,"Male","White",2939,2017
+56,"Male","Black",48,2017
+56,"Male","Hispanic",449,2017
+56,"Male","Asian",36,2017
+56,"Male","American Indian or Alaska Native",100,2017
+56,"Male","Native Hawaiian or other Pacific Islander",3,2017
+56,"Male","Two or more races",79,2017
+56,"Female","White",3083,2017
+56,"Female","Black",47,2017
+56,"Female","Hispanic",405,2017
+56,"Female","Asian",40,2017
+56,"Female","American Indian or Alaska Native",84,2017
+56,"Female","Native Hawaiian or other Pacific Islander",4,2017
+56,"Female","Two or more races",78,2017

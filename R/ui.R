@@ -47,7 +47,40 @@ shinyUI(fluidPage(
                 )
             )
         ),
-        tabPanel("Piechart"
+        tabPanel("Piechart",
+                 sidebarLayout(
+                     sidebarPanel(
+                         radioButtons(
+                         "sexorrace",
+                         "Sex or Race",
+                         choices = list("Sex" = "sex", "Race" = "race")
+                     ),
+                     selectInput(
+                         "statePie",
+                         "State",
+                         c("Alabama" = 1, "Alaska" = 2, "Arizona" = 4, "Arkansas" = 5, "California" = 6,
+                           "Colorado" = 8, "Connecticut" = 9, "Delaware" = 10, "District of columbia" = 11,
+                           "Florida" = 12, "Georgia" = 13, "Hawaii" = 15, "Idaho" = 16, "Illinois" = 17, "Indiana" = 18, 
+                           "Iowa" = 19, "Kansas" = 20, "Kentucky" = 21, "Louisiana" = 22, "Maine" = 23, "Maryland" = 24,
+                           "Massachusetts" = 25, "Michigan" = 26, "Minnesota" = 27, "Mississippi" = 28, "Missouri" = 29, 
+                           "Montana" = 30, "Nebraska" = 31, "Nevada" = 32, "New hampshire" = 33, "New jersey" = 34, 
+                           "New Mexico" = 35, "New York" = 36, "North carolina" = 37, "North dakota" = 38,
+                           "Ohio" = 39, "Oklahoma" = 40, "Oregon" = 41, "Pennsylvania" = 42, "Rhode island" = 44,
+                           "South carolina" = 45, "South dakota" = 46, "Tennessee" = 47, "Texas" = 48, "Utah" = 49,
+                           "Vermont" = 50, "Virginia" = 51, "Washington" = 53, "West virginia" = 54, "Wisconsin" = 55,
+                           "Wyoming" = 56)
+                         
+                     ),
+                     selectInput(
+                         "yearPie",
+                         "Year",
+                         c(2011, 2013, 2015, 2017)
+                     )
+                     ),
+                     mainPanel(
+                         plotOutput("pieChart")
+                     )
+                 )
         ),
         tabPanel("Line Graph",
                  sidebarLayout(

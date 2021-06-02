@@ -12,6 +12,7 @@ shinyServer(function(input, output) {
     statesData <- read.delim("data/states_all.csv", sep = ",")
     countyConversion <- read.delim("data/fips_to_coords.csv", sep = ",")
     disciplineRates <- read.delim("data/discipline_rates.csv", sep = ",")
+    sat_act_participation <- read.delim("data/sat_act_participation.csv", sep = ",")
     
     getDisciplineData <- function(countyConversion, disciplineRates, therace, thesex) {
       disciplineRates <- disciplineRates %>%
@@ -57,6 +58,16 @@ shinyServer(function(input, output) {
     })
     
     output$pieChart <- renderPlot({
+      pieData <- sat_act_participation %>%
+      filter(year == input$yearPie, fips == input$statePie)%>%
+      group_by(.data [[input$sexorrace]])%>%
+      summarise(total_participation = sum(total_participation))
+    
+    
+    pieChart <- ggplot(pieData, aes(x = "", y = total_participation, fill = .data[[input$sexorrace]])) + geom_bar(stat = "identity", width = 1) +
+      coord_polar("y", start = 0) + theme_void()
+    return(pieChart)
+  
       
       
       

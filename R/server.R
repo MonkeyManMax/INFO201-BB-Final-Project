@@ -30,7 +30,8 @@ shinyServer(function(input, output) {
         mutate(RATIO = GRADES_ALL_G / TOTAL_EXPENDITURE) %>%
         select(RATIO, Code)
       
-      plot <- ggplot(yearlyRatio, aes(Code, RATIO)) + geom_histogram(stat = "identity", binwidth = 1, position = position_dodge(10))
+      plot <- ggplot(yearlyRatio, aes(Code, RATIO)) + geom_histogram(stat = "identity", binwidth = 1, position = position_dodge(10)) +
+        labs(title = paste0(input$yearBar, " Expenditure to Student Ratio"), x = "State", y = "Student to Expenditure Ratio (Students / USD)")
       
     return(plot)
     })
@@ -56,16 +57,23 @@ shinyServer(function(input, output) {
     
     output$map <- renderPlot({
       
-      mapData <- getDisciplineData(countyConversion, disciplineRates, input$race, input$sex)
+    mapData <- getDisciplineData(countyConversion, disciplineRates, input$race, input$sex)
+    
+    sexConv <- c("Male", "Female")
+    raceConv <- c("White", "Black", "Hispanic", "Asian", "American Indian or Alaska Native",
+                  "Native Hawaiian or Pacific Islander", "Two or more races")
       
-      map <- ggplot(mapData, aes(long, lat, group = group)) + geom_polygon(aes(group=group, fill=Suspension_Rates)) +
+    map <- ggplot(mapData, aes(long, lat, group = group)) + 
+        geom_polygon(aes(group=group, fill=Suspension_Rates), color = "black") +
         coord_quickmap() +
         theme(panel.grid = element_blank(),
               axis.title = element_blank(),
               axis.text = element_blank(),
               axis.ticks = element_blank(),
-              panel.background = element_blank())
-      
+              panel.background = element_blank()) + 
+      labs(fill = "Suspension Rates",
+           title = paste0("2015 Suspension Rates for ", raceConv[strtoi(input$race)], " ", sexConv[strtoi(input$sex)], "s"))
+    
       return(map)
     })
     

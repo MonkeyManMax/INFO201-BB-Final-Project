@@ -10,7 +10,7 @@ output: html_document
 This report gives an overview of several facets of America's education system.
 America's education system is unique, often confusing, and enormous. Thus, making
 decisions when it comes to America's schools is very difficult. Our visualizations
-depict the state of the system over the past could decades. We believe that it is
+depict the state of the system over the past two decades. We believe that it is
 imperative to have the best possible education system to ensure the future of our
 country.
 

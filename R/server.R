@@ -27,7 +27,7 @@ shinyServer(function(input, output) {
       
       yearlyRatio <- statesData %>%
         filter(YEAR == input$yearBar, State != "DODEA", State != "NATIONAL") %>%
-        mutate(RATIO = GRADES_ALL_G / TOTAL_EXPENDITURE) %>%
+        mutate(RATIO = TOTAL_EXPENDITURE * 1000 / GRADES_ALL_G) %>%
         select(RATIO, Code)
       
       plot <- ggplot(yearlyRatio, aes(Code, RATIO)) + geom_histogram(stat = "identity", binwidth = 1, position = position_dodge(10)) +
@@ -40,6 +40,8 @@ shinyServer(function(input, output) {
         
       cost <- statesData %>%
         filter(State == input$stateLine, YEAR >= input$yearLine[1], YEAR <= input$yearLine[2]) %>%
+        mutate(INSTRUCTION_EXPENDITURE = INSTRUCTION_EXPENDITURE * 1000, SUPPORT_SERVICES_EXPENDITURE = SUPPORT_SERVICES_EXPENDITURE * 1000,
+               OTHER_EXPENDITURE = OTHER_EXPENDITURE * 1000, CAPITAL_OUTLAY_EXPENDITURE = CAPITAL_OUTLAY_EXPENDITURE * 1000) %>%
         select(INSTRUCTION_EXPENDITURE, SUPPORT_SERVICES_EXPENDITURE, OTHER_EXPENDITURE, CAPITAL_OUTLAY_EXPENDITURE, YEAR) %>%
         gather(key = "variable", value = "value", -YEAR)
       

@@ -8,7 +8,7 @@ shinyUI(fillPage(
         ),
         tabPanel("Student to Expenditure Ratio",
             titlePanel("Student to Expenditure Ratio by Year"),
-            h4("This chart shows the ratio of dollars spent to students enrolled
+            h4("This chart shows the ratio of dollars spent on students enrolled
                for all states. The year can be selected using the slider."),
             hr(),
             sidebarLayout(
@@ -17,7 +17,7 @@ shinyUI(fillPage(
                         "yearBar",
                         "Year",
                         min = 1992,
-                        max = 2018,
+                        max = 2016,
                         value = 1992,
                         ticks = TRUE,
                         sep = ""
